@@ -85,3 +85,57 @@ wenb\\b camea\ra
 
 
 
+
+c++
+
+3inclmain.cpp
+#include,iostream>
+using namesapace; std;
+  int n;
+cin>> n;
+for ( int =i = 0 , int i<+=n; i++{
+cout << i << endl;
+int main({
+];0s3
+5
+ 
+in6t i = 1;05
+c1
+.sssmain.c
+#include  <>stdio.h
+#include<>stdlib.h
+npm
+ 
+npm install\
+npx install
+npm install
+clear
+npm -v
+clear
+clear
+npm i
+clear
+node -v
+clear
+npm node i 
+clear
+how to create linked leist in c
+ndoe editior online
+wcavsccv
+swhat is malloc
+is dsa enogh to get qqwchatgpt
+vcreate a bidenode to acwrinster a new node at the ert begginiinning of the code e and also fox the errors of this coeode
+v
+vwordvoid
+int
+onlime c cpompiler
+vexplain each and everything used in this code
+how to create a linked list
+  insertion in beginning
+ in c
+
+hhhwhcha
+whch
+asvv
+subway surfers
+         
