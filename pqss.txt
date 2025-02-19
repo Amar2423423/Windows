@@ -284,4 +284,140 @@ String s = "Ra\achit;valu"value assigned to String is +smonkey
 when he if whaere there because system face nation people life need many how first see with leave another systhumandbenchmark
 
 \
-rrrrr
+rrrrrmatlab'
+nimitt.619052023@ipu,.ac.in
+nimitt-21009
+% carier freeqqyuency
+
+fc=200
+
+fc=200:;
+% sampling frequenc% carrier frequency
+fc=200;
+
+%sampling frequency
+
+
+ fs=4000;
+
+5%time duration
+t=(0;1/fs:1;
+
+5sine wave 
+%sine wave with time duration of 't' 
+
+x = = sin92*pi*t;
+
+%amplitude modulation 
+y = =ammod(x,fc,fs);
+plot(uy0
+;
+
+title('mplitude modulation;
+xlabel('ieme9sec);
+ylabel9'Amplitude);
+
+atitle  'nimitt' 006
+s"'
+title9'Tanishnimitt basnet 0061905023 messamessage signal
+subplot(312)
+plot(t1,y2);
+xlabel('Tinmeme;
+';
+ylabel('amplitude';
+title(cvcarrier;subplot(313;
+plot(tl,eq);
+plit(tl;,eq,r'';
+xlabel('Time';
+ylabel('Amplitude';
+Titvmodulateda;;;a
+
+
+
+
+ac=input(('enter carrier signal amplitude';
+am=input('enter message signal amplitude'';
+fc=input("enter message frequency';
+
+%fn .m.,fc
+   m=input('enter modulation index")';
+t-=input('enter time period;
+t1=lin space(0,t,1000;
+y1=2(sin(28pi8fn8tl);
+   &5me35message signa;ll
+
+y2=sin(2*pi*fc)*ytl)m;
+  c5carrier signaleq=91+m*y1;
+subplot(311;
+plottl,y1;
+xlabel('Time;
+zzz;
+ylabel("amplitude;a1
+2\
+3
+2
+1
+aawhat should be carrier signl inpu  
+t in matlab ]
+100
+50
+carrier
+fm=input('enter message frequencyx   v;a
+2
+2
+2
+2
+2
+2
+2
+2
+2
+a10050
+100
+10
+5
+0.7
+10
+acchathgpt
+v
+
+what the problem in this code 
+adnalso tell me what should i put in input , to get a good graph
+va1
+1
+1000
+1
+50
+10
+1
+1
+1000
+50
+1
+1
+Nimitt basnet 00619052023 cv v a1
+1
+1000
+50
+1
+1
+aa100
+50
+200
+20
+1
+100
+Swhatsapp web 
+stufv
+aaSv
+Uday Joshi43cvva100
+50
+2200
+20
+1
+100
+Sv
+acv
+hmatlab
+\u
+ychirag   
