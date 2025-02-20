@@ -482,3 +482,45 @@ t
 root.tiytlele("calculator
 root.ge
 ("500**08500x
+ ciabdullah.10819051923@ipu.ac.in
+Abdullah@27441728
+8506945565998734
+ernoteAIM: sAHRE TSa=hare the file folder i tn the sysetem a and access the file from other system using ip addreass( FTP)
+
+10.10.10.010.10.101.110.10.10.211111111MDABDULLAHMDABDULLAH1234567890IPCONFIGipconfig
+ftp 10.10.10.0
+MDABDULLAH
+1234567890
+DIRdir
+help
+kfdbipo;pboov8bv8My name is MD ABDULLAH KHAN
+i I live in my Hhouse
+mMYMy friend are very bad
+You got my Point
+What is Thisthis
+Mdmd.txtMy name is MD ABDUULAH L KHAN
+i iiI live in Delhiwormate
+dir
+put md.txt
+dir
+ipcondfig
+ping 10.10.10.0ftp
+MDABDULLAH
+12345672890
+
+FTP ftp 10.10.10.0
+MD ABDULLAH
+1234567890
+GETget md.txt
+dir
+ chrchatgpt
+cv in cisco packet tracer
+use sa server
+provide complete experiment with aim ,theory,procedure,observationscoclusio,nn
+use dir for ls
+use ip 10.10.10.0 for server and 10.10.10.1 for pCPC 1 1 and 10.10.10.2 for pc2 also set gateway ip
+AIM is cv
+put file in pc 11 and get from pc2
+c filesdshare
+vexp 4SSSSSSSScga
+cis
