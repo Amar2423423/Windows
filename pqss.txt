@@ -470,4 +470,15 @@ cv10\
 iloeterseloetersi10
 10
 dist_inmiles=int(input("enter distance in miles:gm
-rayyan@sy
+rayyan@sypy
+print(:"hellopythhow to install tkinter from tkinter import 8
+from tkinter ttkimport 
+
+root = Tk(tkinter
+cv10000500250chutqiquit1001001010101code with harry claalcu usinf g tkinter
+
+
+t
+root.tiytlele("calculator
+root.ge
+("500**08500x
