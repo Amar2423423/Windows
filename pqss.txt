@@ -523,4 +523,41 @@ AIM is cv
 put file in pc 11 and get from pc2
 c filesdshare
 vexp 4SSSSSSSScga
-cis
+cis  program.c
+#include <stdio.
+int main({
+printf9'Hello;
+return 0;
+DP_lcLCS(I,Ji,jint in t 
+{
+ void partition(p,q{
+int pivortint arr[],int int =arr[p;
+int i=p;
+for(int j=P=1+1p;j<q;j++{
+i++;
+int temp=arr[i;
+arr[i=arr[j;
+arr[j=yte==temp;;]
+int temp=arr[p;
+arr[p=arr[i;
+arr[i=temp;int
+return ;i=
+if9arr[j,arr[p{
+xv\
+
+pivot,
+void quick_sort(int parr[,int p,int q
+{
+
+if(p<q{
+quint mid=partition(0,parrp,mid;
+qu(arr,p,mid;
+qqui9arr,mid=1,q;int arr[={10,20,30,1,2,3,60,70,100;
+int n=size9arr/assi(arr[0;
+forquick(arr,0.,n-1;
+fpor(int k-0=0;k<n;k++{
+printf('5d,arr[i;k 
+acvzxchatv
+explao\i n above code
+-1wormste
+-z
