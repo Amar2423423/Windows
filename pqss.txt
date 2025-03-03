@@ -610,4 +610,56 @@ xczcchagtgpt
 v
 online line game 
 
-rs2-=42=5=
+rs2-=42=5=viuvisuviviviviiiviviviviivivrvisustart
+start
+
+Start
+index.html
+live1,h1.pORTFOLIO0 /
+
+
+
+
+
+
+doblubly linkedlist
+blackbox
+write  a program to create a doubly linked listb of n nodes and fperform 
+cv  in  C  aa0)isnsetion at beginning b0)in insertion at end c)insertion at speicific locti 
+chat
+v     write this code without comments and simplify it
+vstruct  Node*NewnewNode conline c compiler
+v4
+85
+15
+11
+25
+now write this code for insertion at end
+cv
+v3
+1
+2
+3
+noew write this code for insertion at specific loctiona
+c cmomp
+v5
+44
+45
+46
+47
+48
+22
+2
+ctxt.io
+c com
+ccv
+cvbeginningdeletion 
+viodoid insertatbeginningend 9structnodenode **  head-ref , intnew  nwewnewdatatv23
+5
+2
+6
+v
+cvend
+c 
+vvend
+v3
