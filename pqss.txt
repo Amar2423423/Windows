@@ -848,3 +848,149 @@ invector,int. aarr=[0,0,1,1,1,2,2,3,3,4;
 remo
 (arr;scwharme
 v
+Nyy
+gmdivydwivedii25
+maithili14
+striver
+colab
+tmeeet
+
+
+
+
+
+
+
+
++tscreetscreener
+idea
+5)()_9`classroom
+tdrive
+ccvaxvpathyadavparthusargdsc@gmial.comOaf-dtff-datvzproject1
+vaxaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaim[port padnnas asdas as pd
+im[ppoport matplotlib.pyplot as lpt
+import numspy as nop
+df=read.xcccassv('_v
+pd.
+
+pd
+tUCI <ACMACHOIINE ALEARNINH REPOSITORY]
+df
+,
+headerer=MpneNone
+.colu,mms=['sepal_length, 'sepal-width,'petal-lenght,petal-width,'class''
+df
+
+df.shapedfxvAXMVMBMV
+DF.DESCRIBdf.describe(
+df.info(
+df]['class.value-
+(,
+.
+iimport seaborn as sns
+sns.countplot(x=df['class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xv
+
+
+
+
+3 crorrelcorrelation Analysis
+c=df[['sepal-length,'sepal_width,.corr('peta;l_
+,''peta;l-
+'
+
+,n
+
+
+
+
+
+
+
+
+
+
+c
+sns.heat
+map(c,cmap,=''Bluwes,annot=true
+plt.show(
+,cbar=false,linewidths=3,linecp;or='bblackol
+# EDA, RxploExploratory data aanalysis
+sns.pair)plot(df[['sepasepal-length,''sepal-wifdth,,'petal-length,petal_wi-width
+_
+''
+
+h
+\
+,diag-kind='kde
+# HADNLE categorixal cal data
+df['class.unique(
+di=('iris-setpasosa;0,'iris-versiocloro;1,'IRIris-virginica;2
+df['class=df['xlaclass.map9di
+df[c'class.value-coiuunts(
+'
+# SPLIT DATA ININ INPTU AN D TEARGER
+x=df.y=[df[cl'class
+x==df.drop('class,axos=1is=1
+print(x.shape
+print99y.shape
+y.values
+3 Train Testt sploit
+from sklearmn.moodel_selec
+ import traimn_te
+
+x-traim,n, 1
+
+p
+# KLOAD MODEL
+from #train
+ilr.pprred=molde
+from sklear
+.metrixacsprint()
+_
+_
+\
+dfrom aksk
+.met
+
+print9c
+sns.ehfmyt='d\from sklearn.
+x
+cv
+ch
+v
+
+
+
+cxv
+xv
+acv##
+from sklearn.li
+ import ppercep
+
+model|
+acvv
+i=5
+while (i.1i.1:
+print(:"parth
+===5
+gm
+Ngm
