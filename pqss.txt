@@ -714,3 +714,137 @@ wwwbwwWwsdsdsdsdasdsdsasddswadsdsawwwW2wwwwwwwwwwwww 1 awaswawswawdswswwwsww waW
 
 
 
+cacam
+chy
+chatgpt
+i ha have ti o make ai iiot attendeance system project
+from esp 32ai ahave atto make iiotai image recognition iiot attendace system from esp 2 xamcmam ,which will mark attaendacnnce in 3google accoirding to student
+ca
+v
+e3sp32.java
+i want to use yula
+write a program to print the star,number and character pattern using java packages
+accchatg[t
+vimoimport utilities also giv e me full code without comments
+give me pyramid pattern
+import java.util.sscanscannergive m full code[
+ cvutiutilities
+cvvs
+javaa
+pppyramid  pyramidpteatter.java
+pyramidpatter.java
+ncvututilities
+pap
+pat
+patterns
+ccant we make in one pagegilefile?
+c
+vcvmain.java
+valso add foininput for *,character ,number so that i can tchoe
+v3333
+
+
+3
+3
+3
+3
+3333ccodejava online code
+v5
+2
+explain the code
+qalso add star pattern in the ocde\aobve codeo
+v4345
+1
+6
+6
+
+
+
+43343
+677
+4
+REMOVE SWITCH CASE FROM ABOVECASTE USE OTHER
+I WANT STAR SHAPE PATTERN
+\REOVE STAR PATTER FROM ABOVE CODE AND ADD THIS INSTEAD
+ERREMOVE COMMENTS
+AV5
+ADD IN THE CHARCTER PATTERN=add this code in the staccharacter pramid,ynumber,... which u have bulilt
+av68
+4
+4
+3
+yolo
+ayolo v5
+typi ng spped test
+boy final yes spiral hot box pattern produce laugh who week three look minute group sea ago come stand his btoh old got star among sdey more world fine since typing ten plane stronhg line story we slow pose wa rususeueal question [piece black wait nearligh\
+contr
+country teach lay body make test toward heard knwo cold him roudn add mind pone wirte rmaeke this for me
+whwre to wirite this pythion code
+i want to make this the mimage asomething easier than yolo is there?
+ch
+text ahre
+MATHSMAMATH V LABLAB
+CHARVEESHARMASA#2gmail.comcharveHunnybunny31hunnybunny31517875charveesharmaUniversity school of automation asnd Roboticsdelhi1100322027remove_dup.cpp
+in3include,bits/stdc++.h.
+using namespadse ce std;
+void removeemove_dup(intvector<int. &nums[
+for int i=9int i=0;i,nums.size9;i++
+int count=0;33[
+5%program for ssb modulation and demodulation
+close all
+clrear all
+clc
+fs=8000;
+fm=20;
+fc=50;
+am=1;
+ac=1;
+t=(0;0.18fs/fs;
+subplot(5,1,1;
+m1=am*cos(2*pi*fm*t;
+plot9t,m,llzl;
+totleitle('charvee sharma 05919052023 message Signa;l;m
+m2=am*sin*2p(==92*pifm8t;
+subplot92,15,1,2
+cl=ac8cost92*pi*fc8t;
+suplotbplot95,1,3
+sysb=usb=0.5*ml.*vcl-0.5*m2.*c2
+
+plot9t,sus
+
+;
+cvc
+vcacarrier
+subplot95,1,4
+slsb=0,.5*ml.*cl+0.58m2.8c2
+plot9t,slsb
+v witjh USB
+r=sus
+.*cl;
+syub
+95,1,5
+[ba=butter91,0.000`1;
+mr=finterltweer(ba,l,r;
+plot(t,mr;
+vdemodulated outputsrpactuic=cal 3.3.mif9nums[i==nums[i+1[
+nums.erase[i(i;;sffsbaat[ba]ttr
+
+;sszzzzz
+plot(t,vcl;
+vcv
+c2=Ac8sin92*pi*fc*t;cvSSB-SC SSB-SC sss,i+1nums.begoin(+i;
+bnums.pus
+9-1;l111s111111ss1s
+else[
+count++;
+
+return count;x
+vs
+if9arrnums[i==-1[
+break;
+int main9][
+
+invector,int. aarr=[0,0,1,1,1,2,2,3,3,4;
+remo
+(arr;scwharme
+v
