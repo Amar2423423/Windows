@@ -994,3 +994,112 @@ print(:"parth
 ===5
 gm
 Ngm
+jupcolab
+smash carts
+smash wdwddadwdawdwawddaawdwdwaawddaawsawdx  wdsdsaawwwadad  w szawwasaaadddawdwasadwsdwadda wawaadaawdaddwwdwadwdd wawwsdawdw ddsawddwa   aww wdawawdwchugh.bhuwan@gmail.com
+140207WAN
+140207wan
+1colab
+chugh.bhuwan@gmail.com
+140207Wan
+google clsmain64153
+num=int(input("enter tehe number of 
+for i in rangea"enter the number:3
+
+l=[a3
+10
+12
+6
+
+cb=int9input("enter the numexnumber to be added:
+vinsertl,3
+3
+2
+1
+0
+33
+3
+2
+1
+0
+
+c=int9input("enter the number to be removed;
+
+l1=[
+print("reversed list is :,, l1l.reverse(3
+2
+4
+6
+3
+2
+3
+2
+4
+6
+8
+2
+swhat uis delimiter
+s="this is an exampkle of string         
+s.print9s
+s.st
+s.sple'est('t
+s.e ('g
+print(s.uppprint()print())(printpirnt(0TIeEESsd=[[
+for i i n n=i
+print9d.keys9
+print(3
+hell24
+12
+36
+18
+48
+24
+s=int(input("enter marks:
+if excellentgoove ry goodood
+eslse:
+print("needs improvement99
+n=int(input('enter number iof subjects:
+for ai in range(0,n:
+
+
+t=0
+t==s
+
+5
+90
+89
+91
+88
+98
+cvwhile n.0
+n=n-1:3
+90
+80
+99
+
+print(s.join9"yessdef sum(a,b:
+a=int3
+2
+s=input9"enter string
+for i in u=0
+l=0
+forpperower cioolab
+simport time
+time.time
+time.ctimeher:here is an exampele of stringHERE Is aN eXample of StRiNg
+
+time.slip910een=int(in of primen numbers
+function i n python that creates sound
+vif n,10;
+print"enter number greater than ean 10
+else;
+for in in range90,n;
+11
+cv
+copiv
+c
+vcvv  print(i11
+copcv do not use user defined funtions
+without using user defined funtions and boolenan
+ss11
+ssclassroom
