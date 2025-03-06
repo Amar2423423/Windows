@@ -1103,3 +1103,17 @@ copcv do not use user defined funtions
 without using user defined funtions and boolenan
 ss11
 ssclassroom
+smenus
+import tkinter
+
+
+tk tk = Tk.root()
+ as Tk
+
+
+tk.mainloop()form rom tkinter import *
+from tkinter import ttk
+
+root = Tk(
+
+root.mainloop()root.title("MEenu Bar Example men
