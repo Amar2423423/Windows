@@ -1248,4 +1248,56 @@ cvSScvv
 vzcvSSSSSSSacv
 
 ix tfix this
-avsSSSSS
+avsSSSSSbr
+ma
+hrithik.41190520232ipu.ac.in
+hrithik0khannaH
+hrithik0khanna
+970749hrithik
+khanna%to visaulize the message kmoualtoing dulatoing the carries r frequency using fm
+% set the sampling to 1khz & carrier frequency to 200hz 
+fs=1000;]\
+fc=200;\
+t=()0:1/fs;0.2:;
+%create towo tone sinusoidal signl with frequencyies 30 qan7 60 zhz
+x=sin92*pi8308t+28sin(2*pi*60*t;
+%est 5 set freq deviaton to 50  hz 
+fdev=50;
+%freq modulate x
+y=fmmofd9x,fs,f,fdevcsDev;
+plot()
+subplot(2,1,1t,x;;
+xlabel()'04119052023 hrihthik hkhanna time(0s;czc
+vyamplitude
+leg3ndedndvorignal signal
+grid on;
+subplot(2,1,2
+plot(t,x,,'r,,t,y,'b-;;
+v
+cv, 'mmodulatedhk_exp3
+Swhat
+kuncv\
+hritv
+.hrithik.4119052023@ipu.ac.in
+hrithik0khanna
+wh
+vlzz%''''hk-exp4
+120
+40
+1000
+200
+1
+;20
+40
+30
+50
+1
+20
+40
+30
+50
+1
+Sexp 3
+cv
+exp 54
+
