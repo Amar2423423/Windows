@@ -1591,4 +1591,27 @@ vBhavya Bisht
 now for normal distributionplot 
 
 
-vs
+vscolabcolab
+mudmud1it295@gmail.com
+mud12it34G@#
+colabmuditg295@gmail.com
+debuggingtwest01@gmail.commeet
+bzgohuzsab
+from sklearn, datasets import load_wine
+.
+x,y=load_wine9return_x_y=trueprint9x.shape
+print9y.shape
+print(yXfrom sklearn.model_model_slelection import train_test_split
+x_train,x-test,y_train,y_test=train_test_split9x,y,test_test_spliize=0.3,random_state=0
+print9x_train.shape
+print(x_test.shapefromsklearn.ensemble import randomForestClassifier,ExtratreesClassifier,BaggingClassifier #bagging
+from sklearn.ensemble import AdaBoostClassifiergmail
+estimators=[9'RF,clf1,9'bAG,clfs3,9'CGBC,clf5,weights=[1,1,1,votings='hardcrnotepad
+jsldjksljkdf sdkfjllk; ksdfj sdfkl dsfkl sdflk dsf kjl#### tree based freaature seletion 
+fromsklearn .ensemble import ransdomForestClassiferier
+
+fromsklearn.feature_selection import  SelectFromModel
+clf=RandomFOoereast
+stClassifier(n_estimators=50
+clf=clf.fit9x,y
+clf.feature_importanceess_dit
