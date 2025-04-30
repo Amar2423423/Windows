@@ -2127,4 +2127,79 @@ YOUWONTTAKEMEALIVEYOUWONTTAKEMEALIVEYOUWONTWWSDWSDWSDCCCCWCCCCCCCCSSQQQQDWDACASD
  WSW
 
 AWDASDWWA12 dwdwaasadaadawaswaawwawdaddwasdawleavemealoneasdwdaddaddwdswadwleavemealoneaaddsnuttertools
-wssswsw   wleavemealone
+wssswsw   wleavemealoneggaygavyggaysgajaslhjsdghghhghgghgggsda``googlegoogolenGPDARSCALESTREAnGOOGLE CHAT.COM
+how jdhskdjkjhsahsatafstfast.com
+wtgoolgegle oogle gle ocollab
+tmeet
+`
+
+
+
+
+
+tmeet.google.com
+
+vaannsshhh
+#vansr2812
+ icd -akex-mkq
+``
+thwowt to go back in chrome revious page 
+w
+
+tgooglewgoogle
+\
+
+
+vnash.rautela99
+#Vansr2812
+icd-akex-mkq
+
+
+wr
+
+
+nww
+wtcogoogle /collab.colala
+
+
+gpgoochrn
+collab.google.com
+w##### K emeans 
+from sklearn.datsets  fiimport blobs
+x,y = make_blobsshuff;ele =tryeue, 5150zz5150n_features =2,cneterass=3
+import matplotlib.pyplot as plt 
+plt .scatter (x[:,0],x[:,1],c='white,edgecolor='black, s=50 , makrererkker errker='o
+plt.show()
+mkae_
+cv
+v
+from sklearn.cluster uimport kmeaMeans 
+km=kmmeans(n-_clusters , init ='random' ,max_titre=100'
+y=y_km 
+print('distorointoin oin :=,km.inertial _
+print ('centriods are:---' , km-clusters _.clusters
+=3
+plt .scatter (x[y_km =0,0,x[m==0,1,s=50,cplt.scattercvvvplt.legend 
+plt.sowhow()()1\22112blueoraggnge23scatter(km.cluster_[:,0,km.clusters_[:,1,s=150,c='red,marketr='*, edge cocolor =='black ,label='centeriods
+===
+$#Elbow LBOW METHOD to find th ee optimal vlaue of K 
+idst=[]
+for u
+
+
+from sk llaern.cluster  import import numpy as x=np,.a
+
+plt.scatter
+plt/.show()
+ac=
+prin(;abe;s labels
+from scipz=linkag
+dedndogram9(xz
+
+plt/figure.figure9
+zzzzztfigure.figure(0
+plt.xlabel('data Points 
+plt.show(0
+actccfrom zzzzzzzzzfrom sklaern.datasets import make_moons
+
+
