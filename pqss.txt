@@ -2689,4 +2689,136 @@ smash karts
 you
 pakistan ka ma ka bhosda sioong
      inyou
-f
+fff  cha
+data model for predicting heart diseASES 
+etell the example of data set
+ online python compiler
+cvc
+
+
+
+
+v
+
+cv
+
+
+
+
+
+
+
+cv
+
+
+
+
+cv
+
+
+
+cv
+
+
+cv
+
+
+
+
+cvsonline python ipipynb compiler
+
+cseaborn
+whta algorithm is getting usded in this
+why my seaborn is not there in vs code
+pip install seabonrrn
+cv
+v
+krunker
+a a adawadawwdadawdwwwdddqqqa     qwdwdadwaaa ad dddrwsws awdsd aswdsqawswswwqr d dd qwsdwwqwwr  dddw q2e   a waas   wawa  w w qqq   a aaa   wds wd awdsa a  aa   a a dwd wa rw    2 adgamma in r
+rraayes
+-----------------------------create a random number vecopicreate a random vector of size( 9*1 in r
+v=ccreate a random vector of size 9a*1 in r
+rynufuni
+9a
+print(v
+print(mean(vdian(quantile,prob=0.059
+
+#Q2
+x=seq(1,10
+plot(x,dbinom(x,type="p,,size=10,pprob=0.5col="reda6plot pmf of binomial dist with n=10,
+
+#Q1
+ prob=/6.6 in r
+bar,names.arg=x#Q3
+pie cahart in r syntax
+itm=ctem=c("ood,"Clothing,"Rent,"Trasnsport
+expenditurec=c("`1000,5000,25000,10000
+pie(expemn
+.la,labels
+item,,main="Rent and expenditure
+
+3Q4
+
+#q45
+fav=choose=(4,2
+total=choose(52,2
+print(avfav/totalagiven lamda =.3, X=exp()llambda find P(x<=3) in r
+P(1.5<=x<=1.9)
+
+vva
+3i(i
+#(ii=cvxvaavvbbaaaaaaaa
+find p of drawing 2 ae cards from a well shuffled pack of 352 ac==cards in with replacement in rcxvv in r
+a
+
+va
+#Q5a
+p1=4/52
+p2=4/52
+req_p=p1*p2print(req_pdistribution nd their pdf nd cdf
+normal dist nd all
+other tdistributions too
+hawhat is normal ad nd poisson distribution
+what does thesed distributio suggest
+intwerpretation of variance, 
+why do we square sd
+   what is random variable 
+in hinglisgh 
+copilot 
+how to find pdf of normsall distribution 
+rangpoisson and exponential lambda 
+range of lambda 
+q3q1
+generategenerate a sequence of evn numbers rom 1 to 1000 in R 
+VEefrom==to=cv#ques1
+
+
+ques2#
+states,- c(punjab,haryana,''''';'uttar pradesh,'gujarat,'bihar
+yield,- c9728,943,1469,2903,2153
+barplotyielsdd, names.arg==states, col=pink'
+,
+'''''
+main= 'yeild of states
+xlab= 'states, ylab== 'yield
+border= 'black0oiee,,  #ques 33
+noumber-of-students,- c915,19,253,18,5marks,- c90;50, by==10
+a,- datanum,mar
+mean9aacwhat is error in this 
+vcvpvcvcv find mean and mode in R 
+VFIND THE COEFFIIENT OF VARIANCE OF A RANDOM VECTOR GENERATED OF SIZE 15 X 1 IN r 
+
+
+
+
+
+#QUES 4
+VCA
+Z3QUES 5#QUESES5
+GIVE r CODE OFFOR - LET LAMBDA=12 AND X IN POISS91.20  FIND *9190 P9X=50 2. PLOT CDF 
+VAWHAT IS BAYES THEOREM IN HINGLISH 
+ALL PROBABILITY DISTRIBUTIONS WITH PMF PDF MEAN AND VARIANCE AND RANGE 
+MOMENT GELVlv,-cv   find mean and median 
+in r
+vamarksawhats the erro r
+van
