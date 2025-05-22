@@ -2905,3 +2905,446 @@ plpplaywebit.com/tools/experiment
 playwebit.com/vlpdf/vlsi.pdf
 cha
 what iws pt is pmos and nomos an  d how to oneconvert in NANS D an d NOR explain ind detail
+py
+complier
+ python
+print()""yash\
+\
+chatgpt
+draw paaternttern in pythoncode 
+
+star paattter i pythonvb
+printrowscnvf
+
+rowas=inoutput("enter nube mber of rows)"rowsrows1akul practical exam
+5
+intt()4
+\n4
+nd1={}
+d2={}
+l1=int(inout("nenter length of first dict"))
+l2=int(inoutpp("enter length of second dictionary"))
+for i in range(l1):
+key=intt(input("enter key"))
+val=input("enter element"))
+d1[key]=val
+c
+v22
+merge two random user input dictionqaryary an dsort them by keys in python
+nvprqcticql 2aa akul 
+3
+4
+1
+r
+2
+t
+4
+ty
+ for secondx
+v
+4
+1
+t
+2
+e
+4
+t
+3
+y
+2
+1
+d
+2
+g
+d3={}d3=d1+d23#zz##########3##33how to merge two dictionary ion pthion
+for j in
+
+
+for j in d1:
+d3[j]=d1[j]
+for j in d2:
+d3[j]=d2[j]
+
+print(d1,"\n",d2\n,d3"\n")""
+,,,3
+1
+g
+3
+d
+2
+f
+3
+4
+g
+2
+d
+6
+z
+d1"d1"=",d1)c
+v\
+v23merged unsorted 32
+print("sorted d3"=",d3.sortedsort dictionary by key i 
+d3=sotrted(d3.keys()))3
+1
+f
+3
+d
+2
+s
+3
+4
+g
+3
+h
+5
+j
+for i in sorted(d3.keys()):
+d3[i]=d3[i]
+
+3
+1
+w
+2
+r
+3
+f
+3
+5
+j
+4
+b
+3
+m
+items
+3
+1w
+3
+1
+w
+2
+e
+3
+r
+43
+5
+t
+4
+f
+3
+h
+keys
+print(i)#3#
+3
+1
+w
+2
+r
+3
+f
+2
+5
+f
+4
+h
+z
+3
+1
+r
+2
+t
+3
+u
+3
+5
+h
+4
+h
+3
+k
+dict(items)
+3
+1
+r
+2
+t
+3
+h
+3
+5
+c
+4
+b
+3
+u
+d3=
+3
+1
+t
+2
+y
+3
+g
+3
+5
+h
+4
+n
+43
+j
+nastr=inpoput("enter string")\
+\
+sub-=-=input("enter string")\1
+c=0
+
+for  i in str1:
+if sub==str1:
+c==1
+print (frequency="",c)
+prakul practical 3
+akulkl malik
+a
+sublower.()lower.()i
+akul malik
+a
+how to convert strin in lower
+sub.loweri.lower
+akul malik
+a
+3
+1
+t
+3
+e
+2
+g
+5
+h
+4
+3
+1
+r
+3
+g
+2
+s
+3
+5
+n
+4
+d
+3
+a
+what is pandas used for
+what is numpy used for
+1
+w
+3
+1
+d
+12
+r
+3
+f
+3
+q
+aaasA 45
+HELLO
+PYTHO
+AASDEVDEVNATH134.py
+print(h"hello world')avs
+pythonasdevnath134.py
+c = chatgpt
+find second largest elemt in a list
+ in c
+avin n pythhon
+aveasy one
+on def functionawithoutc = { 123,78,80,9,88}][ defa
+
+vnote
+av#ccc''''''z
+a400,088as90acazzS(1)chat90a45a
+3to find second largest elemrnt eent in a list
+ssdev2#TO PI PRINT INVERTED TRIANGLE - 
+  4  4 3 2 1 2 3 4
+     C
+ V
+C
+ V
+1  1     ACACV IN PYTHON
+SIMPLEST CODE
+NVAC
+
+VZ   B    SZ
+SA::SAVS ASNSDE3# TO FIND UNCOMMEN WORDS FROM TWO STRINGS
+
+A =a =" " cv
+simplest
+ no def used 
+vhello my name is dev nathhello i am ev Nathas iaresacascs90s,0sfirstsecondfirstseconda#asaszzs_w_first_secondw_firsyttw_secondasasaaaa1.c
+atineyurl.com\/Adads007
+tineyurlaa
+ti
+cv11.c
+aacavcccc23 include ava  vzvchatgpt.conm
+v
+
+
+
+explin the occode
+acv
+
+is this correct
+give scomplet code with correct indentation
+without comment
+avsafor s0w<0;;zzzzzzzzzza a
+zzzchatgpt.com
+explin flowyed warsel algo
+algo
+z
+tintinyurl.comx`cmd
+curl "htt;ps://ctxt.io/2/AAB4J_yTFQ" > adat
+clear
+cls
+dir
+code adat
+tinyyurl.com/NNNtinyur.l.com/ada2205
+cls
+powershell
+clear
+Ntada22005
+Ntinyur.com/ada22005
+gcc
+gcc `11.c
+lscode adat
+code new.c
+vim:w
+clear
+i#inc
+ < stdio.h>
+3include <stdlib.h>
+
+int main() {
+[kkko
+type
+ struct job {
+[ddko[ja job;[kddkoint profit;
+int deadline;[jo
+largest [Iint [atcode adat
+/fr/franction
+vuu 
+:set rnu
+j0v[9ik[vdd14jy
+
+[pkjddddkkkkkkkkkkkjjjjkkkekllhdiJobjob[;w
+j4ddjkkj7ddjjjjjjjjkkkkkkkeeejjkkhhhhkkddkkkf?[f/Dxxjjjjkjllleeeejkeehhjjjjjkkkkkjjjjkbbbbbbkkkjjjjjjjjjjjddkkkjkkkkkkkjflhxxxi<[lxkkjkkkdt;i[lxi<[kkjjkkkkkjjjjjjkkjjflhxxxxi<[jjjjjjjdt;i[lxi.[bbbbbbbllleeelllxi->[jhxxxxxi->[jjbbbbbbhxxxxi<[uuuuxxxxi<[jxxxxi>[:w
+dd:w
+clear
+gcc new
+./a
+spdeadlineweight[ursprofit[[:w
+`
+
+hhdt+[dt+[dt=iMaximum profim profit : [xxxi [llllkkkjjjhx:[hx:w
+`
+
+
+[ka[tous[u[stotalProfit[[:w
+`
+
+gg=G:w
+bbllllllldi{i
+[pf,[f,;;;;;a
+[lhxf,;;lxi
+[kk=3jjjkkjjo[:w
+kkkkeeeh[[sjobs[:w
+[`
+
+clear
+i60/1010/60[jhi20/100[jhhi30/120[;w
+`
+
+
+scapacity[[;w
+`
+
+
+urkkkkkf1llllllhhdt}i0[jldt}i0[jdt}i0[;w
+`
+
+hitypedef [jjjjjijo job[jjj/struct job
+diwxjdiwxndiwxndiwxn;w
+`
+
+o
+return r1(long)r2 - r1;[jjvjjjj[kk[[[kkkjkjkjkjkvjjjj///[:w
+`
+
+`kkkkkklllr1lllllr2;w
+`
+
+
+`:w
+hi(long)[;w
+`
+
+`:w
+
+
+`uuuuu:w
+``jjjla-[jjx;w
+`
+
+`kkxjji-[;w
+`
+
+`kkkvjjjj//[kkkkkko
+return (int)(r1 - r2);[;w
+`
+
+`hhhhdi(ir2 = - 1r1[;w
+`
+
+`uuuu:w
+hhhhhhhdulllllllllldt[deiKS[[;w
+uu:w
+sfractionalKS[[:w
+`
+
+clear
+dd:w
+
+
+
+`u:w
+xxxx;w
+`
+
+`diw[uhdi(ir2 . r1[jjdi(r[ir2 , r1[;w
+`
+
+`hi5-0[llllli405[jlli[hi70[llli4535[jhhhli[llllli[hhhi00[llllli15[:w
+`
+
+stotal
+[:w
+[[:w
+kkkkddjdd;w
+`
+
+dt)udt[df)jf,;[lpldt[diwkdd:w
+`
+
+2ddo[pkddjo[:w
+`
+
+:w
+jjddkkddjjkp:w
+o
+#define F(n) for (int i = 0; i < n; ++i[//oF(n[jjjjjjjj//of(n[:w
+`
+
+ddjfji [7jdd:w
+clear
+
+
+exit
