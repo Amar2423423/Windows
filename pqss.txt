@@ -3535,3 +3535,15 @@ animal.makesound9;
 animal = cat;
 animal.namakessou
 s;
+gpt
+how amny types of operters are in jaava re there 4/
+are tbtut mam said there ae 4
+ok so give me a code whihch has all 4 opertors
+givem e 4 v s 
+aaaaaaaopertors
+gco piolt
+mdifferent code for eqach of the 4 opertors
+aaaaadeededeeggggggegegegegegeeffefefefefaefefefefefeefgiv e me the output of all 
+male sure everthigng is java
+dedededededdddddddddeeeeeeeewwwaaasaaaaasssdddfeeedfaaaavvvvavopertors72give onee line desciption o f all 4
+"aaaaaaaacccaz
