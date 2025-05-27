@@ -3382,4 +3382,80 @@ e
 cnhttpcnfilee
 t53ttinyurl.com/cnfilee
 hchata;aloknishant92@gmail.com@COMLAB203C@COMLAB203DONM59750@GMAIL.COMhellloji2004Ddonmcomgmail.helloji2004@
-10.10.10.110.10.10.2
+10.10.10.110.10.10.2theme
+cccthemeablackbox
+smjin2025pytrin
+()"hellokinematics1.py
+kdefdedefdedefdefhghgdgsdugdef kinematics()x,t,dt=1E-6:
+position = e**E**90()t-4(t-4**2test.py
+cghoghreogvvp = e-**-()t5-4**2
+ptrint()p\
+imp
+ mathexpEmath..=.()ofheufhwuf
+import math,dtvelocity = postition = expmath..exp.exp()-(0q-4**2t
+velocity = ccbisdb= vvcvbjgmatvdiqhwbfiuefiu math.exp22**2(0-(0t+dt-4**2-math.exp()-()t-dt-4***2/2dt*
+acceleration = math.exp()--()t+dt-4**2-2*exp()-()t-4**2math.+math,.ecxp()-()t-dt-4**2/dt**2
+
+result= ()pois
+,bvelo
+,ac
+
+re
+ res
+
+print()f"the position,velocity,a aand  accelearration for the following function at that time is: {}kinematics()x,,y
+x= = int(0input()"enter the time at which ypou want to see that parcticle
+y = int(0input("enter the small interval dt for the calculations for velocity and acceleartoopnio55nvnijnergierjiginginbirieeifhifhifheifnnvwiowgeuineoieoivbvoivv
+510**-5)(()jupybhavya.py
+jupyternocccvvvvecececvvvector = (2,3,4-1
+y = x**390==(0x*e9**x)=1
+impor mat
+
+p(xsqprint(sqrt94c`"hello0pip install ammath
+pip install numpy
+cv
+
+print9sqranacpyth qrtfro
+ math
+(from mathvzz4pow
+(2,3
+sqsqsexpomny = po
+9x,3 = + x*exp9) = = 1
+exp = exponenvvtial fnctione **
+e=2.1399pow
+9e,v
+
+for xi in range(len9cv:
+print9yxxzz  9pow(v[x,3=9v[x*pow9e,v[x=1/# tthis ifs for f(v
+
+
+def func9:
+
+#th this is for putting values of v in f(xhvy = xcvccv     ffgfgdfdfdy     fgdfbgfdkjgbdfgdffvgdfvgdfvddffofofoy = pow(x,3+(x*(pow9e,x=1vfroor a in ranglee9len9v:
+v[a = x
+print9y
+
+func9x = v[ax=1
+# this is for putting values of v in f(x/
+x=v[0
+pritnt9y
+x=v[1
+print9y
+x=v[2
+proint(y,v,v//3
+x = v[a=1
+print9yx
+
+vy = len9vv0;3len9v-1
+wireeleless
+
+vudp.java
+importimport java.i
+play
+wireless
+cv}cv.cvccvcv`hoe w to dowmnload a classfile package in java
+ccchat v
+v
+
+-cp javac
+cd-java i java.io.*
