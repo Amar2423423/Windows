@@ -3459,3 +3459,79 @@ v
 
 -cp javac
 cd-java i java.io.*
+ copilot
+WAP to perform Main.java
+po;ymorolymorphoism using crun time method
+java
+why @overide
+wiraapolymorphism
+main.java
+vvvvvsdgsgsvthrtwo line theor y also
+cin simple words
+c
+
+
+v/zco
+zzzzzzzzzzzzzzzzzzzzyyyyyyyyzzyyweerclass animal{
+void makessound([
+system.out..ppritntln9"animal makes a sound';
+
+class dog extends aniimal[
+@ooverride
+
+void makesoundd9[
+susystem.Oout.println9"dog barks;sc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cop
+Wap to write plolymorphism using runt time method
+
+
+
+
+
+
+
+
+zzzyyywqaaaaa
+
+
+
+
+sSs
+
+c
+vvvvvvc
+vcvvvvvclaclsass Cat at extends animal[
+2override
+
+void makesounds9{
+system.out.println('at meows';
+
+public class main{
+public static void main9string [artgs[
+animal animal;
+dog dog = new dog(;
+Cat cat = new Cat9;
+
+animal = dog;
+animal.makesound9;
+
+animal = cat;
+animal.namakessou
+s;
