@@ -3737,4 +3737,117 @@ hadoop download
 meet
 meet
 yuku-wtnj-sta
-Rahul
+Rahulmysqmysqpl
+mysqlmysql online comp
+aaCREAETE DATABSE BASE mmovMovie;
+USE DATA
+;
+CREATE TABLE movies;
+(
+Title Varchar(50  primARHAR(50 PRIMARY KEY,
+diretction VARCHAR(50;,
+OEorSSMyear INT,
+rating iitexpchat
+explexpailain tcl commands in mysql Begin,commit commands
+DECIMAL9(2,1
+)
+
+
+
+CREATE TABLE actors(
+Actors VARCHAR(50,
+ayear INT
+
+
+
+CREATE TABLE (
+ Acts
+actor VarA
+(50,
+title VARCHAR950
+
+iCREATE TABLE dureirectosrs(
+
+director VARCAHAR(50,
+Dyear INT
+ pr
+ KEy,
+FOREI
+OFOREIGN KEY (AaActor REFRENCES (actorsActor c,
+vrtitileEEtit;leeMMovi Movies 
+Pi
+ KEyY (actor,Title, PRI
+ KEY
+INSERT ITNTO Movies VALUES
+VALUES9'Frgargo,'coen,'1996,'8.2,c
+v
+v
+;7.687Raising arizonaspidermanraimi20027.47.62000HANSansenwonder boys
+
+INSERT TABLE actors VLAALUES
+
+('cage,
+'1964,c
+v
+v
+v;567557CagehanksanksMaguiremcDormand
+
+INSERT TABLE Acts VALUES
+
+('what does foreign key command does
+How do i insert a ddata in a table which contains foreign key
+cage,'raising ar
+,c
+v
+v
+v
+v
+vv;magure
+mag
+spi
+wonmder boysMc
+Mc
+Mc
+argowonder boys
+
+INSTER ERT TABLE Direc
+ VALUES
+
+('coen,'1954;,c
+v
+v;45Hanson59Raimi
+
+seLELECT * froFROM Movies;c
+v
+v
+vactorsSAacts
+Dire
+actonline mysq
+avtch
+acv
+
+cv
+MoviecINTOINTOINTOo;;;;avcvv
+acv
+/
+
+
+
+
+gg
+SELECT Title FROM Movies WHERE myear>1997x AND DidirectorD==''Hansoncv
+M;; AND Director = 'hnanson;'cv
+
+cv
+e,rating;
+tch
+
+SELECT mOVIEMovies FROM ytitleMovies WHERE Myear>11997;c
+bv And D Director = ''hansenSLELECT actor From Actors UNION ROm Director FRO M directors;ctch
+x;vcvv
+cv
+SELECT popcornornctAS ACTOR ctor aAs Director zzzzzzzzzcv
+I want the actors and drirector is n two Tcv
+
+i want actors and directors in two different columns in my table
+
