@@ -3991,4 +3991,81 @@ lt
 rrrrrrrrzrfzzzzzznrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 
-  
+  ssettin
+roblox 
+FKEake _FAKE_Ffake98userpromm,mightyFake989898oneline c what create a arrauy thaytsnthat a s akscan ask size of array anfd 
+int n:\:;:;
+enter nt==the nioo of elements 
+scanf("%d, $&n;givein output]\
+in c progrm
+concomplier c
+give iin simple code ess not in lhigh lebvel code
+i menas dans to say sixze of codse de greater
+igibethe tputi have the put the leelements anf  inanand aferafter thetat thye ey will give me op th size of element of in op
+av5
+1,3\
+1
+20,50,5,5,6
+
+5
+1
+
+2
+3
+45
+6
+write a progtarm in c for impletioing 1d  array s;aklong with its operation insertion, deletion, display
+hhv
+avv
+
+explain this code inin in everyuy line
+aav
+display
+
+give e me code fofor insert nor be delete, exit anf d sdi display
+zav
+shubh
+
+aathis cs code gignniott giving thwe  oropropre eper o?p /p they ask only type insert elemenyt after tjhetyey st the loop \
+max sizoize dont be use use library like scaf nf
+use only basix xicsic code onlt
+vvbrelek
+i have just th tinsert a paartivuucular name but after that  they gibinhving the cv
+1
+4
+ > 02
+
+2
+CCVNOc
+v
+thsat what the tno should i i have enter 
+10
+2
+10
+0
+15
+1
+><)1016
+0
+7
+1
+
+60
+2
+acv
+expallain and mbreak through every tline 9  mttlb me isko  hat a kar or kya should i  have put to run tjhis program 0
+z, elementszzzz2
+10
+
+
+
+
+
+
+
+
+==fiNAfinal valueno<10
+0
+retunrn=0return=0 n; n;
+returnn=n=1+1;
+;
