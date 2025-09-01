@@ -4233,4 +4233,46 @@ ww
 \
 W 
 
-\`````
+\`````ltvlab transistors
+ v0000
+---+7
++---+
+-
+-+/
+++-
+++transistor iitbombay vlab
+111111transistor amplifier vlab
+ripple facyoutub
+smasher
+bdbms
+3#33in3include,stdio.h.
+#define MAX100
+
+int main9) {
+int arr[MAX],n,pos,val:;
+chwrite a code to implement the 1d array withb implementing insertion and deletion operation using c language write code in most simplesrt language
+don not use switch case satatement
+do not use if elese se or while use only or for loop
+                         ####jjhncnhf#include,stdio.h.>
+#include,stdlib.h>
+struct node 
+{int data :;
+struct node*next:;
+};
+typedef strct ruct node node ;
+node*head = NULL;
+no
+node*getnode()
+[node*newnode;
+newnode=(node*)malloc(size of node0
+printf9"Enter the data for node\n;
+scanf("%d,&newnode0
+newnode => data = newnode:;
+newnode => next = null;
+return (newnode0;
+
+ main() {
+head=  = getnode()
+head =. next = getnode()
+head =.next = next = hgetnode(0;-..---MMCV  ();CVVVCV
+
