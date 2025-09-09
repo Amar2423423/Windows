@@ -4428,3 +4428,157 @@ v
 5505050ghgklzfgnvm   51514555656565656youtube.com
 telegram web
 SSSS1555555SSSweb telegram
+peperpexil
+tprogramiz
+wwwreturn 0;#include <stdlinb.jh>
+
+struct NoednodeN{
+int dtaa;
+struct node* next;
+
+typedef strcuct node node;
+
+void insert atstart(int data{
+struct Node* head=NULL;bdNode * newNode=malloc(structnode*) structNodenodenodenoden(sizeodf(node;
+newNode->data=data;
+newNode->next=head;
+heaadad=newNode;
+
+void insertAtEnd(int data{
+cvc
+v;
+iF(head==NULlL{
+head=newNode;
+rerturn;
+node* ytemp=head;
+while(temp->next!=nuNULL{
+temp=temp->mexnext;
+temp->next=neewwNode;
+c
+vpoPosition,int positionposition1CVHEADheadhead=newNode
+return;
+for(int i=1;i<ppoosition-1&&temp!=NULL{
+temp=temp->next;ifprintf("position out of range
+newNode-.next=temp->next;
+
+
+
+void de;eleteatstarrt({
+if(head===NULL{
+printf("list is empty;
+if(head->next==NyuUIULL{
+head=NU:LLL;
+rerturn;
+node* temp=head
+head=head->next;void deleteAtt#WEbndd({
++if(head==NULL{
+printf("list is empty;
+retur n;
+iF(head->next==NULL{
+head==NULL;
+return;
+struct node* temp=head;
+while((temp->next->next==NULL{
+temp=temp->nextrt;
+temp->next=MNULL;void delete aAtPosition(int position{
+cv
+if(position===1{
+node* temp=head;
+head=head->next;
+rerturnl;
+node *progra
+
+node * getNode(int value{
+struct Node{
+INT Vint data=;
+struct node*; next
+typedef struct node nodenode* newdaSData=(node/*malloc(sizeof(nodec
+vzcvlibdbh#
+newNode_>data=val;lue;
+newNode-.mextnext=nNULL;
+return newNode
+void insertNeAtStarrt(int value{\
+node* newNode;
+newNode=getNode(;
+newNode-next=head;
+newnodehead=newNode;insertnewAtstart(5
+
+;N;;;;head
+int node* head=NULL;
+newNode->data=value;x
+vacecha
+v
+fix only th8is his part no new ncode
+givre  complete code
+create a seprate display buttion
+avHHhT;;;nodewewewewezzzzzzzzzzzznode * getNode(int value{
+xvx
+vNULL;
+return newNodenode* newNode=getNode(datadatavaluevaluevaluenewNodenode/* newnNode->next=head;;ewvalue*dava;uelue;;zzzzzzzzzzzzzzzzzzzzzzzzzzzz;;c
+vvaluevaluefdata
+
+
+
+
+
+
+
+
+getNode(value;
+insertatEnd(10;void insertATtPosition(int position,int vaklue{
+niode* newNode=getNpodede(value;
+if(hwADead==nNullULL{
+rethead=newNode;
+return
+for(int i=0;i<poisituion-1;i++{
+nnewc
+vtemp-=tem-p->datanext;
+temp->data=next=newnodeNtemp->next;
+newNodetemp->next=hnewNode;
+insensertatPosition(1,3;aacvsrcncmd
+gcc --version
+avaaa;int count;
+count=coumtnt+1;
+if(
+if(position<=0 && countposition>{
+returnl;5-5-02
+int pos;
+int value;
+scanf("%d 5d,value;
+printf("enter the value;cc
+vpositionpos);posvalue5
+2
+1
+/4
+&&4
+3
+//-1
+2
+5
+-1
+500
+-1
+15
+2
+15
+-1
+15
+-2
+eolsese{
+}11
+-2
+2
+2
+-5
+5
+10
+
+printf("either out of bound or negative inedecx;4
+-5
+
+
+//implementaion the linked list along with all its operator ions ,insert at beginning ,insert at end ,insert at st position ,creation ,display5
+100
+zz45
+3
+.z.xuu
