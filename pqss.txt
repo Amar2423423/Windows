@@ -4850,3 +4850,29 @@ tdddddddddddddssssdddddddddddddddaddddaddddddddddddddddddddddddddddddddadddddddd
  jjk
 smitsuri
 tsunacdee
+c programixz
+#3define  MAX =AX 5
+IT int queue[SIZE;
+MAMAMAaxMax
+int front ==-1,r=-1;\
+
+void wemnqueue(int value[
+if 9r==f -1[when we are usijng simple quueue iusing array then it mighjt be possible that there is suffienct amoiunt of memmory space available in quueue but still it is showing overflow conditon in oreder to elinimate this problem we can use circular quququueueu \
+printf('queue is full!!!!!!!;
+nn
+using linked list which cat is hecker
+ch
+whwhich cat is lhuge ge than a caat and is scary and agressive not a cat\
+no it has sharp ears
+long standing ears anfd aggresive hiostile
+it looks like a cat
+lifespan of clown  ffish
+lamp like fish
+jelly
+acgroqk
+fact check thus===is 
+v
+ch
+ else\zzzzzz}
+else[
+if (front ==-1;
