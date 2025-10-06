@@ -4876,3 +4876,43 @@ ch
  else\zzzzzz}
 else[
 if (front ==-1;
+--    03inclyu#include<stdio.h>
+32includecvvcv#incl#include<stdlib.h.
+struct Niode{
+int data:
+;
+struct Node 8left;
+struct Nodwe *right;
+
+struct Node * getnode({
+int value
+struct Nosde 8newnode=(struct Node*malloc(size0fof(struct NOdode;
+newnode->data=bvalue;
+newnode-.liftregffdft=NU;LL;
+newnode->ruight=NULL;
+return nrewewnode;
+void print9struct NOde*root pdeode*rooyt ;{
+if(root==NUULL  )
+REUTRNreturn;
+print9"%d->'',root-.data;
+if(root->left
+pricvcvprint
+proiprintf("l;%d,root-.left->data;
+if9root-.right
+printf("r:%d,rpoot->right-.data;
+printf('\n;
+print(root-.left;
+print(root-.right;
+int main(
+{
+srtruct Node 8root=getnode(50;
+root->ledtft=getnode(30;
+root-.right=getnode990;
+root->left-.left=gwetnode915;
+root-.left-.lweft-=getnode(19-.right>rigjhht;
+root-.right-.left=getnode(100;
+root->right-.right=getnode(2;
+print9root;
+return 0;tree
+  online c aavcorcorrect the errords in this v
+avvavn
