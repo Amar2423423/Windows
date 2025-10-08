@@ -4915,4 +4915,43 @@ root->right-.right=getnode(2;
 print9root;
 return 0;tree
   online c aavcorcorrect the errords in this v
-avvavn
+avvavn cpmonline sql chatgpt
+hey ui need to do an sql experimneent
+threre is a movie dartabase 
+firtitle directior ,,mtear,rating ythese are for movie
+now or necdxt one uis actorc s9actor,at=tyeyyear)then acts(titleactor,titile0 then directors(director,dyenr0
+vvccnee topd to design taable for movies ,actors,acts,donliCREATE TSABLE( mMovies(
+movie
+movie_id INT;
+actpor
+actor _id INT;
+
+PRIMARY KEY(movie-id,actor)_id0;
+
+FPROREIGN KEY9Mmovie_id,)R rrREFEREMCMCNCE MOVIE EXPERIMENT SQL
+MOVE DATABASE TABLE
+VCREATE A MOVIES TABLE
+DOPONNT WRITE COMMENTS
+V
+ kKEYCRREATE ACTPORRS TABLE
+ONLY AXCTOR NAME AND AYEAR
+VCRETATE ACTS TABLE (ACOTR,TITLE0
+Vdropcreate tan;;ble directors(director,dyear0
+vdrop table customesrs ordeDROP TABLE IF EXISRT Custioomers;c
+v
+vOrdersShippingssSSSXXNOW I BNEED TO INSERT DATA IN THEM 
+V)VVVFIND MOVIES AFTMAIDE AFTER 145945
+VFIND MOVIES MADE BY JAMES CAMEROM
+VFIND ALL THE MOVIES AND THEIR RATINGS
+VFIND ALL ACTORS AND DIRECTIOORS\
+VFOIIND VCV MOVIE'S Ms movie with kate winslet
+v
+cvpythobn advamncnce math librab modyules
+ linear re
+python os ms for mtadvance mathsenatical operations
+muos python
+external  for math 
+more
+netmathematics netwrorking modlules
+Pulp like more modules
+zzsads`
