@@ -4955,4 +4955,18 @@ more
 netmathematics netwrorking modlules
 Pulp like more modules
 zzsads`ca
-hots
+hotsmobsql                       chat gpt
+draw er diagram and convert entities and relationship to relation table for a given scenario..two assignments shall be carried out i.e.  consider two diffrent scenarios(eg bank,college)
+nkaggle
+COLLEGSdatabaseDATABASETABLE  STEDENTusn varchar(10USNS PRIMARY KEY50Address0,
+Phone VARCHAR915);
+,
+GENDERgender CZCV(1).C
+VsSEMSECSSIDem INTSEC sSec 
+);
+chatPRprishasaharan26@gmail.com
+
+Prishahrhk2123456
+cvv
+
+INSRT INTO STUDENTE(CV,CVvVALUES(
