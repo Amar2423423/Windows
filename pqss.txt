@@ -4969,4 +4969,31 @@ chatPRprishasaharan26@gmail.com
 Prishahrhk2123456
 cvv
 
-INSRT INTO STUDENTE(CV,CVvVALUES(
+INSRT INTO STUDENTE(CV,CVvVALUES( www
+
+      w da daw  wfwsfad adaaaadaaawdaddad aadwaddaddaadaaaddddaaaaawawadaadadadaadawaaaaadadw dadwasdadddaadaadddaddadaadddddadadddddddaddwaaddddddwd fadwsarfwadwadadaaawaadwadaaaaddddwaaddddawadssda
+
+
+
+
+
+
+adadeadshot
+a ad d ad aaa aw dAwad a wdsad  aWDSAD ADDWADADADWADADSRA WAS  WASADADADDRFD AWDSAD DDDDDWDADADRAR A WDSAWDADRRW SAWDADRRW DSWASA WADSA WADRR WdSW ASWADWADADADAAWWDADADWADADRAR WDSADWAWADawASDAdDAWDADSAR DWSWDA AWDASDRRA WDWADWDADRAR WsDSAD AW DSADWADASDR DWSWDSDWADSADASDR AWDaaSDDA  WADADADR WDDSAD DDDDDWDADADADWAR   WDSAADADWDAWDWWD AWADARR D A D    DWDSADAAWADADR WDS A  WASWDADRAWWADWWDADDDWDWWDAWDWAAWDADTRR WD Asdadwaddadarr wd a awdawdwta
+virtiual lab inverting an omomnon invertuing v=\
+all in one pc
+dell 30905motherboard
+ esxpensive
+chatgpt
+make a binary tree ee through function through user in c language and also humanise the odecodevs
+meow.c
+#include#imnclude<stdio.h>
+struct node{
+int data;
+struct node*nNode* left;
+struct* Node* right;
+
+}
+struct node* creatwenodeN(int value{
+
+struct 
