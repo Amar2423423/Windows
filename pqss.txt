@@ -4997,3 +4997,24 @@ struct* Node* right;
 struct node* creatwenodeN(int value{
 
 struct 
+binaru y redbms redditquora
+rereddgoogle.com
+dbms kejijreema tharja pdf dsa 
+     sql movmy sql tutorial pdf
+jvava lab pdf
+re dbms lab pd
+lichess
+ re hcat
+write a c code offor binary trewe data structyureb withlout commentscrec comp
+avcxexplain this
+combine insetr code into create node and give whole code
+avow explain one by one
+corelpace null by -1 and use leftchild and rchild pointer
+without commaments
+avreplace null by -1 , treate -1 AS METAPHOUR OF NULL
+DEFINE ROOTNODE GLOBALLY
+COMBINE CREATE AND INSERT
+DONT USE MULTIPLE WRITE A C PROGRAMM TO IMPLEMENT BINARY TREE NAD ISTS FUNCTIOMNCOMBINE CREATE NODE AND INSERT FUNCTION 
+NOW REMOVE COMMENNTS
+AVX
+
