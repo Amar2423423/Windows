@@ -5064,3 +5064,113 @@ j..ihgdrdg
 hee oil
 fgjhfs
 hhhhhh
+
+a0acospp3include<its/stdc+.h+h.h.
+using namespcaest std;
+iostrbitsmin5
+run in terminalterminaliosteambtsits/stdc++.hcint main(){
+
+cout<<"hi ";
+return 0;
+
+class no node
+{pubulc:c;;
+itnnt dtaatal;
+node* left;
+node* right;
+
+Node(int val{
+
+dtaata= cval;
+left= NULL;
+right= NULL;
+
+
+Node* create tterree(){
+
+cout<<"'enter the value of node: <<endl;
+itnt value;
+cin>value;
+if(valeue==-1{
+reutnuturn NULL;
+
+
+
+chat
+wap to implement bdsst with foloklowing functions;
+write a function to insettrt a node infrom bst cpp
+zznode* insert(node* root., int vlaluec{
+
+vif(root==nullptr{
+return new
+ node(val;
+
+if(cval< root-.data{
+root-.left= insert(root-.tint aal;
+
+else if(val. root-.dtaata{
+root-.right= insert(root-.right, int val;
+
+return troot;
+
+delete a node
+node+* delete(node* root, int kval{
+
+cocommzcommand rcrcmcmd
+if(root==nullptr return root;
+
+if((vaval,eroot-.data{
+delteroot-.left= delete(root-.left, val;
+
+eles if(val.root-.d[
+root-.right= delete(root-.right, val;easy 
+without any extra cases delte
+
+
+
+else{
+
+
+
+node* succernext(Node* root{
+
+cwhilele(root- && root-.eleft[
+root=root-.left=mini;
+rtuetunr toourn tooroot;cv
+zcv
+                             
+
+ 
+
+  
+
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+
+
+
+    
+
+
+
+
+ 
+     wwadawgetthereveryfastindeedwfsadadadadaaaawdadaadaawsadaw
+
