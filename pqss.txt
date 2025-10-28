@@ -5021,3 +5021,46 @@ AVX
  ltzz vvirtual lab
 invertoperationalm           
 
+         +-main.c
+incluede##icnclude ,stdio.h.
+
+int main(){
+char str[6];
+scanf('%[6\n],str,str);
+for(int i=0;i,sizeof(str);i++){
+
+char new[6]=' ;
+new[i]=i==i;
+
+if new==s9str==new)
+printf("palindrome)");
+else
+
+pribnttf("not");voidaaa./main.c
+cvvvvvvvvcvvvcv++++++[6]aaaa
+3include,string.h>
+
+
+int pali(s)char [6]{
+
+int stai=0;
+int j=sizestrsizeof e9str)-1;
+while(sti<j){
+if9i==j)
+{
+i++
+j--s[]s[]1xreturn 0;
+v;;
+reut
+return 1;palaaa
+stringlrleal(srtr))aaaad 5s ,int
+rreturn 0; SCANFscanf("[^\n],str;aaaaaa
+helloe
+fefghj
+fredfs
+j..ihgdrdg
+=1ghfdsas
+5sghgfds
+hee oil
+fgjhfs
+hhhhhh
