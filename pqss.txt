@@ -5189,3 +5189,7 @@ pandas      m.\cri
  cceng vs nwz
   n         ,m                 bbnn n mlododi wif3
      
+c retarrrxin is code the backspace is moving the cursor instread ead of remobing and the vs code is behavning abnormally
+;{randinrandint   if("\\\BTintn dasize_t data;
+struct BT* nextlchild;
+cvvvvr
