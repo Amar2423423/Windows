@@ -5397,3 +5397,101 @@ gm
  nagar  mosfet disa
 fittorerent
 c 
+
+
+
+
+hhh
+ainter9tjhqy%Ur$dvLp
+9t99Tjhqy5ur4dvlpranjanmanish51562gmail.comranjan@77ranjan@2477aranjanRaRanjan@2477Ranjan@77displaypod
+test.metertl
+tests.ne&zlpedfr8wgranjanmanb.tbB.techUNniversity chool school of automation and roboticsnew delhi2026test .s.mettl 
+8zlipilrkztkra
+
+
+
+z
+
+
+
+zz
+
+ijntt d1 = input5;
+int D = input6;
+int trotal = 38*d1;
+
+char*res = 9char*maclloc(50;
+if9total,= d)[
+spritntf9res,'yes%dm,total;
+]
+else[
+c
+vzz
+sprintf9res,'no%d,total--D;
+return res;
+
+
+stratic char[50;sizeod(res0,cvff res64  0
+long nlong n = input1;
+long long n1 = input2;
+long long n2 = input 3;
+long long n3 = input4;long longlomg ng lomgng   
+
+
+
+
+long long roungdscv
+v
+vz1=9nN=N1n1-1/n1; = 9nN=n2-1/n2; ==  9N =n3 --1/n3;23
+
+long long total = rounds1*t1 +rounds2 *t2+rounds3*t3;
+
+if9n1=,=0n1=1;c
+v
+v
+
+
+long long t1=d1;
+long long t2 == d2!+21;
+long long t3= d1 -2;23if 9ts,0ts=0;33--++23Y-zz-++
+
+N=input1;
+
+  
+MOD = 10**9=7
+
+MEMO [
+memo
+
+def T9n0;
+if n,4;
+
+
+ return 1
+
+ if n in memo;
+ return memo[n
+
+result = 93*T9n//2+5*n%MOD
+
+memo[n=result 
+return result
+
+return T9nN,;:
+   \
+x
+vvz
+
+
+
+
+vx
+vx
+v                 
+
+        
+
+
+    
+=
+
