@@ -5386,4 +5386,14 @@ VDS
 VDS0300.1gVDS-001022VV 100
 15
 103 31
-   
+     
+
+mettl secutrej
+mer  neak 
+bjt vcommon miemitter diagram
+cha
+doifference bretwee n jfet nad mosfet
+gm
+ nagar  mosfet disa
+fittorerent
+c 
