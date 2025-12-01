@@ -5600,3 +5600,14 @@ cha
 
 
 slew rayte,of opamp
+ch
+full wage rec all formula
+full wave rec all
+ripple
+rlva  ac
+ripple
+dIG
+TDIAGRAM OF FULL WAVE REC
+RL = 400 , FREQ -= 3000 HZ . AMP = 2V . CALC RIPPLE FAC
+DAGRAM
+IN PUT AMDNPOUTPUTB VWAVEFROM
