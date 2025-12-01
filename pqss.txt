@@ -5611,3 +5611,5 @@ TDIAGRAM OF FULL WAVE REC
 RL = 400 , FREQ -= 3000 HZ . AMP = 2V . CALC RIPPLE FAC
 DAGRAM
 IN PUT AMDNPOUTPUTB VWAVEFROM
+input ad  puitput of wavefrom of ufll wva rec
+T
