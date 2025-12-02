@@ -5612,4 +5612,17 @@ RL = 400 , FREQ -= 3000 HZ . AMP = 2V . CALC RIPPLE FAC
 DAGRAM
 IN PUT AMDNPOUTPUTB VWAVEFROM
 input ad  puitput of wavefrom of ufll wva rec
-T
+T==54
+vis this output correct for non inverting op amp
+0000
+vis this correct
+gemivis this output correct for non inverting op amp
+cgh
+virtual lab
+iit kgp 
+ inverting and non inverting
+zzzzz2424242676511lt spice output of non inverting op amp
+1
+8inverting op amp
+\non 
+bjt ce 
