@@ -5626,3 +5626,32 @@ zzzzz2424242676511lt spice output of non inverting op amp
 8inverting op amp
 \non 
 bjt ce 
+ 2cm.s/1kmpa
+2cm.es/1kmpa
+usar
+2c
+2c
+j2cm
+2c
+collab
+2cm.es/1kmpa
+22
+tempccNv
+ccv
+vvav
+v
+v/
+chr
+Ngpt
+mriduwNgoogle colab
+v
+wc
+classifica
+twcollab\
+seye.py
+tcolab
+tcopil
+write a code for regression for Data analytics i to implement regiularized and non linear regression 
+vvvsssenhance this xcode for regression show all typre of regression
+aaassssgive em theory in short 
+what is regression
