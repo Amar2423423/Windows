@@ -5727,3 +5727,198 @@ v5cv
 
 v3zz
 
+coDD
+SS
+D
+D
+
+
+
+
+SSSSSSSSS
+
+
+WWAAS
+WFAADADADAADAWASWDADDAADADAADAWDAADAADADADWADWASFAWWWFW WDDWDWADWASDWDSAAWNUTTERTOOLSW23132NUTTERTOOLS
+DWDAWDNUUTERTOOLSNUTTERTOLLS
+
+
+
+
+
+
+
+
+
+DWDSADWDW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F
+
+
+
+
+
+
+
+
+
+
+WADSWDWD
+
+
+
+
+
+
+
+
+
+
+
+
+FF
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+AWAWDADADAWADAAWDADAWWDWASDFWAWFSAWSADWASDDAWADADADWDDADADADWDDDDAWDFDAFFFFWWASDWDDAWDFFSAWDF
+WDWDSWDSAAAW
+SDASAAWAWSAFFFWAADDAADDDADWSASSWADSAADWSLEAVEMEALONEWDSWWDDAADADADWAWWAAAAAAAWWSADAWWAWAWAAWAWAAAAAAWAAWWAAAAAAAAAAWWSSSFWAWPANSZERPANZERWADAAAWWFWDDAAAADADDAAADDAADAADADAWAAAWSAAADAAAWWSAESEAWAYSDADAWSDDDDAAWASCOMEFLYWITHMEADDAAADDDDDDWDDDAADWDADDWAAAAADDADADADDDWSWDDDADDDDDDWAWAAADDWDDDAAAAAADAAAADAAAWDAAAADDADADDADDADDADDAAAAAAAWDWASDAADDAAWAAAAAADADAAADDDADDAAADAADWPWA
+AADADDDADADDWWAAAAAWDADDWADAAAAADWDDAWAAAADADDDWADDDAWAAADDADAWDAAAAADAAWAGOOGLE COLLWW W
+AADADAAWDDAAADDAADDADAADAADADAAAAADAADAAAAAADDDAAADDWADDWADDADADDDDDDWWAWADDAAWDDDADDWABIGBANGW DDWDDFWADAAWASAADDDDDWADAADWWDWAADDAAAAAWWADWAAAAADWDAWAWADDAADDDAADDAAADDADADAWAADDFWFWWFDDWDDDDAAAWD D FDWDDWDFAWDADDAAADADAAAADDWD FFDDWDDWYANcollab
+yatharthanandart@gmail.com
+artisbest
+ddwwffadadwdwawdaafawfaffffwfffwwaaawadddadaadawsaawddddwsadadwsdwscome flcomeflywithmewimpofrom goggle .collab import  dr drive
+drive.mount[ [content/sdrive
+aaddaaadadawdwaadaawdddadwaaw()"""kaggle
+titanic
+waaaaaaaaadawdaadadadaddaddwawfafddwfwdaaadawtitanic''
+/
+o
+google drive
+
+daadwd wwdaaddddw swfadwfdadwwwswswsnuttertoolshow to add csv file of dataset jerehere
+
+wwwww wwwwwwa  www ddwwdwawwswfwawcvvcvtitaarcData set
+dataset datatitac w
+  wwwwwdwfagehow to extract column of age
+vage (=of = df['age
+awssassawdwadaaaaaw 
+w['age
+aadadadddwadaddadadad w awf f\age
+=df['agex
+printdisplay(age
+.head((ageasurvived-_people=df[dfsi d[df[s'survived==1zzzzzdf[df['survived
+==1
+display
+(asurv
+_peo
+.head(=
+fwdaaaadawswwwwdwaaaaadwadwdddaadadaddaadw daaaawd fadwdsawawfwsaaaaaddadawdwadaddawsdfpeople=df[df['survived====1[;''age==30dw
+ddwdwswsdawwwnuttertoolswwwwadddwdddwfswwdddaadaawdwdwddadaddadwaswsfwwsimple code syntax to select people name whose age is 30 and survived
+&()])(
+display
+(peopl
+.head(
+wwwddadwwaddwddaaaaaw
+awdw
+
+wwwwwwcheatadwawawfaawwwwfadwdaddddaddwd 
+people_gender_
+>male
+adf wasawfdwadawsaaaddddadw swasawaswawaswdwdwdsawasawwwadsaddwsadawsawdsadwwdfswaseiaspirineddaawadwdddwwwwwfffwfwawawsaaaaaddwwdawa waaddWwww WW
+AAWFWW
+AAADDDADAADWDAADWDWAWASADDDAADDDAADADWAWDSADDWSADAAADDAADAWZZZMZZMMZ&(DFdf['sexgender===male'
+sawdsdaaaw df.grou
+(w
+ddddadaaaaddaaaadaw new.cpp
+new.c
+neu.c
+#######3333333333W$vgvdsjvvsd##incha
+take takke inout from user merge procedure 
+ke input from user merge procedure
+take input from user merge procedureb in c 
+cclude<stdio.h.
+voide merge(int a[ , int l , int m , int r{
+int i,j,k;
+int n1=m-l+1;
+int n2=r-m;
+
+
+
+int i,int r){
+
+int i,j,k;
+
+int i,j,k;
+int n1=m-l-1;
+b[ , int c[n
+z
+
+int i=0;j=0,k=0;,nm
+while(i,<n && j<m{
+if9a[i<b[j{
+c[k=a[i;
+i++;
+eldse
+else{
+c[k={
+iif(a[i=ib[jaaa[iib=b[j<{
+c[k=a[i;
+i++;
+else{
+c[k=b[jzz[k=b[j;
+j++;
+k+=;
+while9i,,n{
+c[k=a[i;
+i++;
+k++;
+ehileewhile9j,m{
+c[k=[j;
+j++;
+k++;\
+
+bc
+
+
+
+
+
+int main({
+[
+zz
+zvz
+vz]
+vz{
+
+if(a[i,b[j[
+c[k=a[i;
+i++;z)
+j
+i++;
