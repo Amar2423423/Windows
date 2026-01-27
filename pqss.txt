@@ -5921,4 +5921,55 @@ if(a[i,b[j[
 c[k=a[i;
 i++;z)
 j
-i++;
+i++;lk;;k;loplkimn      
+  
+
+              
+
+
+
+
+ 
+
+
+
+dwasdwdSdAWasdasdadadadadabr
+ddD dwfannymagnetpanzerawsseabaseseawaysrocketmancnuttertoolsleavemealoneadawleavemealoneinvincible savice city cheat
+azem notation 
+tosymtothgta vice city cheats
+iwantbigtitsfoxylittlewdsaddadadawsfleavemealonesadaawasddwwdwpreciousawspreciousarm0ornuttertoolspreciousprotectionasprineasprintaspirinedsdafoxylittlethingssdleavemealoneleavemealojneleavemealonefoxylittlethingleleavemealonesddwleavemealonewdsadfannymagnetleavemealonedawdwrockandrollcardwfcomeflywithmefsaddawdsadadadaw  wwcomeflywithmefdawdadadbigbangbigbangprecvicdwpreciousprotectionnuttertoolsflywingwheelsflyingwaysflyingwaysflyingwaysthugtoolsprofessionaltoolsleavemealoneiwsdsdddwwwdsdwwawdssdwdwadswasdleavemealonegettherefastawdwdDWfsdaadadAadadadadwdddawdaddadaddad addddadwddsdsseawaysadaaawpreciousarmopreciousprotectionnuprofessionaltoolsamericahelicopterddwsdwaWDsamericahelicopterddDwd   dDDwddwwsssswwddwasdwsddddwdwleavemealoneAwWAsdwssdsthugstoolsawasdawleavemealonechickswithgunsleavemealonegethgettherefastdwdfmmmmmmmmwasdadddadwa aawssaaaddaddddadadaaaadadadddddadadadawsddaddadadwddadaddaddadadadaaaawdwdsdwdddawsfsfaasaswamericahelicopterflyingwaysawsawfannymagnetrockandrollcarwgripiseverythingadwfwhhelsareallineeddadaaaadaadadaddaadadaddadaddaadadddadadaddaddadadfaafffdfffffwffdswdadasdwdsrawdsdwdaddDwswwdadwawdadasasadddwdwadswawwadwwdasdaaAAwasdawwaadasdawasddwdasdasdawdasdawprofessionaltoolspreciousprotectionwawawassada21dawdaADADVADWDSDAAWDdsa21dwassdAAaewsdadawddAawdsdadadadadwawdsaawasdawpreciousprotectionaspirinefugitivepreciouspriotectionpreciousprotectionawspirineaspirinepreciousprotectionpreciousprotectionprofessionaltoolsprecoiousprotectionaspirinepreciousprotectiondDDDWpanzers
+dSAa
+cha
+write a dcode in c for insertian on and deletion n of an array 
+use the most basic c
+inswertionrtoion
+.c
+vvcvvvvvvvvvvvonline c compiler\
+v4
+2
+3
+4
+1
+1
+2
+12
+v
+
+for(i=n; i>pos; i--{
+a[i=a[i-1
+
+a[pos-1=value
+n++;;;
+
+wlelse if (choice==12{
+printf("enter position to delete; ;
+scanf9"%d,   &pos;
+for(i=pos-1; i,n-1; Ii++{
+a[i=a[i+1;
+n--;
+else
+porrintf("Invalid choice;
+printf("Updated array: \n;
+for(i=0; i<n; i++[
+printf("""%d,a[i;}
+}}
