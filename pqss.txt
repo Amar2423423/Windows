@@ -5973,3 +5973,51 @@ printf("Updated array: \n;
 for(i=0; i<n; i++[
 printf("""%d,a[i;}
 }}
+mat;lab.amtworks
+kartikeuya\ya.3819052024@srtdd.ggsipu.ac.in
+myna@jka140210@Kaku140210@Kaku991403
+karrKartikeya kaushuikkx=linspace(0,2*pi,25);
+y=sin(
+z()x
+x=linspace(0,2*pi,25);
+y=sin(x0;
+subplot(2,1,1);
+ploccplot(x,yx,'r');
+c
+zz
+v
+plottitle('coCOontinuous;
+subplot92,1,2;
+astem(x,y;\
+titletitle('Discrete;
+work 1.mx
+n=10;10:10;
+impulsere=n==0;
+stem(n,impulse);
+xla
+('n;
+ylavbelel('Amplitude;
+title('Amplitude;
+ytitle('iiImpluse-6049-;n1=input('Enter the lower limit;c
+v2upper
+n=nm11:n2;
+x=[n.=0;>
+stem(n,x;
+title('Unit s\\sTEP STEP sIGNAL - dISCRETEdiscrete;
+cvzDStep Sigbaklbnalwork2
+wor 3rk3==n.*
+subplot92,1,1();
+plot9n,x,"'r;
+title('CcContinous;
+su
+zb(2,1,2;,'b'b25
+259
+
+stem(n,x;
+title('Unit Step SIGigbanal - Discretework4
+4
+3
+hdhub4u
+y
+vaa pool
+\ gamegame onln
