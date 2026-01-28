@@ -6021,3 +6021,71 @@ hdhub4u
 y
 vaa pool
 \ gamegame onln
+w3s
+vs
+01Array.cpp
+3incliude<iostreanim>aaaaaaaaaaBibnarysearch.c
+inclinclu#include
+stduio
+io.h.
+print
+aprintfcodec coma#include,stdio.h>
+int arr[ = {1,2,3,4,5,6,7,8,9,1-0}:;
+int main({
+]
+int t key = n;
+int n;
+printf('enter the number tp search;
+scanf(:"%d,&jn;
+iffor(int n = 0i, i,190<,;; i++{}
+if(key == arr[i
+printf("key is found;
+
+printf("not fpound;
+return 0;6
+c
+else vc    flag = true
+int a; = 0;a = 1;if(a == 0 printf("not found;
+else if(a == 1 printf("found key;6
+11
+!=conytinue;//
+print("not foundint n;
+printf('Enrter the sizre e of array: ;
+scandf("5d,&n;
+int arr[n;
+for(int i = o0; i < n; i++{}
+printf("enter the %d element ,i+1;
+scanf("5d,&arr[i;
+how to print using pointerin c
+int *ptr = 7arr[i;
+printf("%d is the elementess,ptr;array 
+c
+v8++02
+2
+3
+ 5
+6
+8
+3
+9
+10
+6
+c com
+int char[ "= Rishu;
+i nt *ptr = char;
+for(int i = 0, i;,<sizeof(char: ; i+=ifnt count = 0;
+if(char[i == '\01
+count+=;
+while9char[i !-= '\0"''
+i
++++=;
+int i = 0;strcharstrstracc com
+av[
+}acc com
+av
+printf("number of strings are %d .,count;elements istruntrign stringc com
+achatgpt
+write a [roggram to print all permutations pr of a string usinf g popinter
+write all the permutaions of a string usin g pointer in c lang
+vchatacVMAKE ME UNDERSTANDFD EACH LINE AND ITS  USE
+  \\\/\\Nn/n\nischayif =====if.:if1=:prntint('yesa")print("yeyes)  print('yes")   print("yes")   Print("yes")p    print("YES")   print("YES")wd
