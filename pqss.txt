@@ -6088,4 +6088,88 @@ achatgpt
 write a [roggram to print all permutations pr of a string usinf g popinter
 write all the permutaions of a string usin g pointer in c lang
 vchatacVMAKE ME UNDERSTANDFD EACH LINE AND ITS  USE
-  \\\/\\Nn/n\nischayif =====if.:if1=:prntint('yesa")print("yeyes)  print('yes")   print("yes")   Print("yes")p    print("YES")   print("YES")wd
+  \\\/\\Nn/n\nischayif =====if.:if1=:prntint('yesa")print("yeyes)  print('yes")   print("yes")   Print("yes")p    print("YES")   print("YES")wdcisco
+cut te ropre
+steremirminal
+code
+main.c\
+i3include >,stduoio.H.
+
+GGGGVWWIVIM
+vim
+/////////// lineAE Rr searxhcch
+\
+
+zzzz   -it maint minain( [\
+returnint pos = -1eretrnurn;
+
+int linearSearch(it array[, itnt size, int value [
+int pos = - 1;
+for (int i = 0 ; i ,= n; i++ if size if array[i === value( return i;
+int arr[5 = {30. , 35, 47, 68, 9409099po}
+;
+ 0int printF)("%d, Lineaklinea
+(arr, 5, 347;sj~gcc main.c -o && main & & ./main
+
+./main
+
+
+47sjj
+
+99s
+
+(linea
+(arr. , 5, 99 ? printGf("%d, cv ; printF("Value is not presenzt';s
+
+ < 5s
+
+
+clear
+
+
+
+
+how to padd to path through cdmd
+44sclear
+gdb
+quit
+gcc -g main.c -o main
+gdb main
+break main
+n
+run
+n
+step
+bvis{{;F/
+
+c/ zazstring str="wjddfj;
+
+#INCm<SRTRssSCHAR* char[*forintwhch[i!=''\0
+int i=0;strcount++;
+int count=0;pri("%d,count;/\
+[. [ 144z~gc cccc main.c -o amain
+./main
+++
+i++;s
+
+
+&*s
+
+relea
+~
+
+ofr (inti=t i =0 0; str;i[i !+ = '\0; i++ [
+++count;
+uint nt ocount = 0;s
+
+Baeryunaruns
+
+sadityas
+
+okijkisjoui9899uioooiiooiooo9000000scame
+p; n[lkjg po., ,;klmk/ l lk lk lm kl,mimoioikj09p09IK(?]/9';.\`ccclearhashedin
+ meaning
+++++++++++b-0fthe.htmla/za/zxzzzz
+
+
+ialjvnm 4yg6tg76gsrtbreynchvh6v frtf zggnjgnjz`````
