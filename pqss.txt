@@ -6173,3 +6173,39 @@ p; n[lkjg po., ,;klmk/ l lk lk lm kl,mimoioikj09p09IK(?]/9';.\`ccclearhashedin
 
 
 ialjvnm 4yg6tg76gsrtbreynchvh6v frtf zggnjgnjz`````
+spy
+// emimplement array using pointersint arr(5=[1,2,3,45,};taray declaration in c
+w[5vs
+
+int arr1[5=cv5,3,7,1,9actry.c
+v[},{2,7,4,{9,5,1}t 2 d array in c
+3[3]12 3X#3
+varr2}
+
+int pointer2=&arr2;
+printf("%d,po;*pointer to an array in c
+ptrtr 2d
+pointer t2d.c
+v32c
+v
+11*dwwwcch
+find error find error in the below program in c
+v
+v
+gemini
+v
+
+
+v+1  41)(ss+1s()s2siafor (int i =0; i<9; i++{{}s
+*ptr1 ++= *ptr2;cv
+v22s+i)(9+i)asc
+for (int i = 0 ; i<9 ; i++{
+3v   
+if i//%3 == 0{
+()printf("/n\n;s && i!=0s==3 or || i==25 || i==8sw
+
+
+int **ptr3 = &arr1{[0;
+pr(;"%d,*ptr3s[ss[][]sspymals.c
+acv // int *ptr1[03=&arr arrptr1=i)(*+j()*;;to retrive value of ith row qand jth column zp1phwhAG
+CCCVS
