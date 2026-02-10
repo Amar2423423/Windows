@@ -6283,3 +6283,220 @@ v
 
 
 #vod id deleete 
+
+
+
+
+
+
+
+dadw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+awd
+
+
+
+
+
+
+
+
+dawawfadw fwwawf  
+daadadadaadawa ddwasaawdddaw wfwawafsdaaadaaaadadddaddgfaawaaadaddw addadawsdawdaaaaddaawddaaaddaadddaaddaaaadwaa sdaadadaaaawdadww awdadwwsswaaadddasdaddaadaadadadddawabr
+online online c compiler
+gemini
+write a code in C to perform addition and subtraction in a linked listo
+chaatgpt
+write a program to create a linked list and s20store polynomials in it and perform addition and subtraction onn them them, in C the 2 lists should be initialized paralally relalelaly rellaly aed parlally ellay allel \y y will this work even if the some in between powers are missing like x10 then next is x7 and so on its not a perfect polynomial 
+v
+linkeded_list.c
+#include <stdio
+
+#INCLUDE <STDLIstdlib.h>include
+
+struct node({
+int coeff;
+int pow;
+struct nod e *next;;
+
+strcut nodeuct nruct node* createnode(int ca, int b0{{
+give me a code which doesnt ude malloc sand is simple basic c '
+explainnthis code to je me 
+
+3define MAx
+3define fine Null -1
+ struct node list[MAX;
+int avail=0;';
+int getNode({
+return avail++;
+
+void insert(int *head, int c,i int p{
+int newNode=getnode(;
+list[newnode.coeff= c;
+list[newnode..[owpow= p;
+list[newnode.next= Null;
+
+if *(*head==Null[
+*head=newNode++++++++++++++++------
+------acccvs
+chat
+shrortcut to minimize the code in vscode
+minimize the editor 
+my code is zoomed in how to i zoom out
+----------===e;
+else{
+int temp=*head; 
+while((list[temp=.next=null!{
+temp=list[temp.next;
+list[temp.nxt= newNode;
+
+void display(int head{
+if(head==Null{
+printf("0\n;
+return;
+while(head!=Null{
+printf("%d5dx^,list[head.coeff,list[phead.pow;
+if(list[head.next 1= null{
+printf('+;
+cv
+
+Is this correct i think there are some error s in this 
+the indentation on the if statement if incorrect and there is a;lso noso no curly bracket for the if statement ?
+copulinkedy_linked-list.c
+vcodeSScha
+vI am getting this error when i run my c code in vscode 
+copy3
+8 
+5
+6
+3
+9
+1
+7
+0
+0
+0
+0
+0
+0
+
+head=list[head.nxt;
+
+int main({
+int poly1=Null, poly2=Null;
+int n,c1,p1,c2,p2;
+
+printf("enter number of terms: ;
+scanf("%d,n;
+
+printf("enter terms\n;
+
+for(i=0int ; i<num;i++{
+scanf("5d 5d 5d 5d,c1,p1,c2,p2&&&&&&
+insert(c1,p1;
+ijnsnsert(c2,p2;int 7poly1,&poly2,can you generate a code in esven more basic c use only arrays,functions and pointsers 
+don nt use arrays creatuse linked lists but create and traverse the linked list in the most basic c possible 
+do not use malloc 
+;32
+2
+2
+010
+0
+4
+2
+11
+0
+
+printf(Polunomial 1:Polynomial"Polynomial 1; ;
+display(poly1;
+printf("Polynomial 2: ;
+dipsplay(poly2
+);dD2
+2
+2
+10
+0
+4
+2
+11
+0
+
+printf(\n"\n;12
+2
+2
+10
+0
+3
+2
+12
+0
+Sbvi am getting this error and the 2
+10 2 11 0 
+5 2 10 0 
+displayed polynomial is not the poluynomial I entered 
+ 208
+10 2 8 0
+5 2 11 0 
+7 2 10 0
+8 8 8 8 
+8 8 8 8 
+8 8 8 8
+8 8 8 8
+8 8 8 8
+Svif i entere 8 terms it djust doesnt stop
+8
+10
+2
+12
+0
+13
+2
+10
+0
+20
+20
+20
+202
+fgive me the code qwithith a predefined linked list no use rinput
+
+
+insert(&poly1,5,4;
+insert(&poly1,4,22;
+insert(&poly1,10,0;cv
+
+is this insert functio n correcyt ?
+x
+v
+
+insert(&poy2,4,4;
+insert(&poly2,2,2;
+insert(&poly12,12,0;
+printf("polynomial 2; ;
+Disp;aay(poly2;now give me the function to add these 2 linked lists 
+
+
+vzinstead of NULLOPTR i used Null
+my I have another code which uses physically assigns position in a linked list using arrows and use node&* temp something like this Is tahat correct /
+can we do the exact same code without malloc 
+for the same code do not use any functio ns s 
+000
