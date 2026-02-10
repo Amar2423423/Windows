@@ -6208,4 +6208,78 @@ if i//%3 == 0{
 int **ptr3 = &arr1{[0;
 pr(;"%d,*ptr3s[ss[][]sspymals.c
 acv // int *ptr1[03=&arr arrptr1=i)(*+j()*;;to retrive value of ith row qand jth column zp1phwhAG
-CCCVS
+CCCVSin3include stdio.h<>         
+
+
+
+
+
+
+ 
+
+
+
+
+     
+
+
+
+
+
+
+
+
+dswdadwadwdawdasdadwawsdaWdsdawdadd
+ eeewdawedwee wmmWWd
+// write a p top to opersform inserteion and  deleteion operation ofn an array
+
+b#o
+int inserT( int avalue., int psiitition [
+vodint arr[], int size(, 
+intn  arr[5 = {1, 2, 3, 4, 5,5 5  , 5;
+10printf("%dd, sizeoof(arr / size of(arr[0;sjgcc ~gcc main.cio -o main && ./maintryetrtry
+\
+./try
+for I(int i =  oposition, i , size; i++ arr[i=1 = arr[i;. {
+
+}s;
+arr[posiiton
+ = value;ubt int arr [ 10 = {1, ,2. , 4, 5,;
+insert (arr, 4, 3, 2;
+for 9inyoi t i = 0; i , 4; i++ printF("%d, arr[o;s
+
+\n\ns
+
+5s
+
+5s
+
+
+
+// arr[4 = arr[3;
+ sizeposition-1=---1s
+
++1s
+
+4s
+
+-1s
+
+-g 
+gdb try
+break main
+n
+run
+n
+n
+steop
+atepstepn
+q
+y
+cvav
+chtgpt
+v
+.=s
+
+
+#vod id deleete 
