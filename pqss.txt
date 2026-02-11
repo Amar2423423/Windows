@@ -6499,4 +6499,86 @@ vzinstead of NULLOPTR i used Null
 my I have another code which uses physically assigns position in a linked list using arrows and use node&* temp something like this Is tahat correct /
 can we do the exact same code without malloc 
 for the same code do not use any functio ns s 
-000
+000   online compilerint arr[={1,2,3,4]};
+insert.arr(5;
+remove.appenddarr(4;
+appe
+.arr9(1;
+printf
+for(int i=0;i,
+int n=105;n;i++{
+printf(arr%d,arr[i;}
+return 0;
+for(int i-=0;
+printf("enter position to delete value
+int pos;:,;
+scanf(%d,pos;
+for(int i=0;i<n;i++;
+{
+if(arr[ii=pos[
+arr[i=arr[i+1 ;
+while(i<n2""""{
+]=posn>--
+int val;c
+vvaluevalarr[i=arr[i=-1;
+arr[pos=val;
+n++;2
+3addadd15};}+;=4&&\n\n\n \n\n2whatcv
+
+
+for(int i=0posc
+vdelete;i<n:i++[
+arr[i]=arr[i+1;\nn--;
+cv\n
+2;\n3acv
+
+void insert({}void delete)(){
+}
+cc v
+printfion("insert or delete:;
+scanf("%s,&ans;
+char ans;
+if(ans="delete[
+insert(delet(;[50]else [
+nsert9;cinsert
+2
+15
+return 0;
+}[50]int arr[23,3;
+printfi.j,("printeneter ter no. of columns;;:
+;
+scanf
+int i,j ;("%d;,&i;
+printf("eneter no. of rowsj;\n;
+scanf("%d,&i;
+for(int a=0;a<=i;a++{
+for9int b=011;][b<=j,b++
+print("\n\n enter elemntsents;:;cc
+vscanf("%dd,&arr[i][j[;cc
+v{
+}[
+printf(%"%d,arr[i][j; 1
+2
+3
+3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+;;
+}f\nmatrix:%abab2
+2
+1
+2
+3
+4
+ccha
+probproblem with this code/ ""v
+0000Nchatgpt
+[problem witht this code? ""acv
+cvacv
