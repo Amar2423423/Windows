@@ -6585,3 +6585,96 @@ cvacv
    
 
  
+int main(){
+
+int partion(_)
+{}
+int x=pint p, int q, a[],inta[] ;p
+int i=p;
+int j;
+for(){
+int j=i+1;j,=q;j++
+if()()a[]x<a[]j{
+x
+>
+i++;
+int temp=a[];i
+a[]=a[]ji;
+a[]i=temp;
+int tfin=<xxx.=int fin = a[]p;
+a[]i=a[];p
+a[]p=a[];i
+aint a[]={433;,d3,54,432,e53
+p
+()0,5,a[]
+for(){
+int i=0;i,=45;i++
+printf(;;a[]is%d,"' sa[ia[]ia[]i
+void quicksort()int a[], int p , int q{
+if((){
+p<q
+int pvi =pa
+();int pp,q,a[]
+partion
+)(;qi
+;()a,p,pvi-1
+
+return i;c
+vviq=+1ssss5s<s>s34,42,75,21,654si]fins#define size 100
+int a[]size;
+
+int binarysearch(){
+int low, int jh, int t
+if()l>h{
+return -1;
+int mid = l+h)(/2;
+if()a[mid==t{
+return mid;
+else if(){
+a[]mid>t
+bi
+()l,hmid-1,t;
+else{
+b
+();mid+1,h,t;
+intsizel; 
+=
+inc
+vn
+printf();"Enter the size; 
+scanf
+();"',&n%d
+printf();'Enter the sorted array; 
+for(){
+int i=0;i,n;i++
+scanf();"'%d,&a;'[]is4
+34
+35456
+478
+99
+
+bin
+();0,n-1,
+printf();:;'Enter element to search; 
+acanf();"',&t%d
+int t;t
+if()iresult!=-1{
+printf()"'Element found at index %d,resiult;
+int result;else{
+printf();""Not foundsss4
+23
+35
+56
+78
+56
+12
+13
+12
+24
+45
+45
+result = s3
+12
+45
+67
+45
