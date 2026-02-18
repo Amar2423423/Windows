@@ -6962,4 +6962,30 @@ forming data sets in pandas or numpy and then  apply operations on them
 m  tisioslowroads.io
 qqeqrfrrqweqqqqrrrfFffrfrfffferqrrfffRrfrfbbhhvvcvvvqccccrfcccrf cfrfw
 v
-vab
+vababo3d volumvagchroma
+131001\
++insretion.c
+incude<stdio.h># 
+int (main[{
+
+int nums:
+;printf("enter no. of elemnts;
+scanfin oin array(%d"",&nums;
+int8ptr;
+ptr=(int *maloloc(sizeof(int*nusms;
+for(int (**= x=0;x<nums<x==++{}
+int nm;u
+printf(entrer" no %d ",x=1+;
+scanf(%d"",%&num;
+
+int taarget;
+printf("enter the  r target number;
+scanf(%d'" ,, &targets  
+for(cv;
+;;{
+ if(ptr{[x==target;{{
+printf('targete elemnment found at %d,x=+1;
+break;  \
+return 0;
+}web
+
