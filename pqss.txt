@@ -7088,3 +7088,86 @@ plt.ylabel('y-axis
 plt.grid(True
 
 pkltt.show(zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzanacodead
+tradeievudview ]
+ccc  laonline 
+#uinclude nclide ude<studiodio,.h>
+int tabkele{[100[];
+int finbb(int n [
+if (n==0 \\|||| n=q1=1[
+retuen==rrrn table ====e{[n;
+if 9 (ntable{[n--11=!=0-1 && sbletable[n-12==-1{
+return abl====table[n-1+table{[n-2;
+
+eklse[
+if (tbale[[n-11=-1==1-1[
+rtbale{[n-1=finb(n-1;
+;
+iff {9((table[n-2==-1[
+table[n-2=fib9(n-12;
+reututrnn  tablwe[1n-1+tabole[n-2;
+int kainmain([
+printf("enter n
+;
+scanf("%dd,n&n;
+for in (int i ==05;i<=n;ini==++
+atabole[[00=table[0;
+table[1=1;
+abletable[2
+table[-1i=-1;=21;
+table[3=2;
+table[4=3;
+table[5=5;
+finprintf("finb iof %d=%dd,n,fin(n;2/b 
+int n =;;5 5
+6
+ /n /b\bn5
+5
+
+ \/n\n6
+/56
+3
+9
+cv5
+10
+5
+
+printf(fin seriesb  series %g"fin b naseries   5d%dd,finb(i=++v8
+4
+5
+
+for (j=iomnlinr =linr e c 
+#includechat
+longest commojn implement the problem of fonfingding lonemngest subnbbsequence peobolroblem using dp ynamic programoining amining 
+,stdio.h>
+3include <string .h.
+#definemax 20e mAX MAmmMAAX XA 10 
+cHRhar X [[maxmax,yY[max;
+int tblable[[,maax[max;;
+int max 9(int a  a, int b 
+[
+return[
+retuern ==n (a>b?a;:b;
+
+ int DpP-_LSscs Cs Vv
+chatgpt ]
+v
+v
+(((int j=i,int j ;
+{
+if (i==00 || j==0
+return 0;
+{]
+if (X[i==Y{[j[
+if(table[i-1[j-1!=-1
+reutnturn 1 =+ table[i-1[j-1;
+
+
+eklse[
+[}table[i=-1[j1][ji-1==DPp-P---==_LCs9(-i1,j-1;
+returmn= 1=+ Table[i-211[j-21;v
+v
+make it ibtetter is vca3include study us the usbhsafcbajnascjs1515
+
+else [
+tgablre -[=TABLE [====N VCMBLJASLKFVSABJBDJVJSD,OMTYMONKREY 
+PORORRdown aml=smal l beomce at much man ppoosible thna play at ipopebn chiild school owwtotlf another atb lalrplace threresdse sem long it nas lsay possible rrreaal thoe those govern a=wqwll smaln e thagp ;large  aporind opof noa ocere nrw shcoo reodem rout of f aif fdbeUCuarrknow ra under on \ in keep too ,ove ,ogjt thrde om bnotj party id4 n4rfgore rsuch too school as mo on very rihgt ght own l;a,leadeararoiunf rwhat bewaussw ermove write feel call child school as anuy wihtout thout mnincrease yb by beegin 
