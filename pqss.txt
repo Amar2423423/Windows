@@ -6989,3 +6989,102 @@ break;  \
 return 0;
 }web
 
+
+online compiler for mathplotlib
+onl
+monek
+run both feel after goofd  out last dyruring stat se seem think hand befpreore righght small if between itnersest problem this to we itnernterest group alrge however both could so
+stand in aprt problem very and develop no and program only after so also arpound even own the seem good than buy  way get gheadeaduse what great play of must without if from najuoion same right plan sondead
+import mathplotlib.pyplot as pltmathplotoonnline 
+import mathp;lotlib.pyplot as pltx = [1,2,3,4,5
+y = [2,4,6,8,10
+
+plt.plot(x,y
+plt.xlabel("x avalyueues
+poltt.yklaabel9'y values
+plt.tioitle("simple line plot
+plt.rgrid9True
+plt.show(ccccavon
+vplt\
+plt.plot9x,y,
+ ckoolour = 'b,lue
+linestyle = '--,
+,
+lkinewidth =2,
+makrker = "o,
+markersize = 6)
+
+
+y2 = [1,3,5,79,9
+plt.[plolot(x,y,label = 'liien 1ne 1
+plt.plot(x , y2 , label,y2,label= = 'line 2
+plt.xlaabel9'X
+plt.ylabel('Y
+plt.legend(
+plt.savefidg("line_plot.pngdeda
+x = ['A , 'B , 'C  , 'D
+y = [10,15,7,12
+plt.bar)(x,y)
+plt.xlabel('categories
+plt.ylabel'valuyeses
+plt.title('simple bar chart
+plt.show(,
+cklolor = "skyblue.,,l
+width = 0.6,
+edgecolor = 'black,
+linewidth = 1.5)chatg
+write a python prgram ogram to create a line plot showing temperature variationm  offor 7 days0chatg
+chatg
+wrtoote iitte a pythnon -prprogram tocraeate a line plot showing temperature variatiom fon for 7 days
+ojnline
+days = ['mon. , 'tue , "wed , 'thurs0 , "fri , "sat , 'sun
+temperatyreure = [30,32,31,29,35,33,34
+
+plt.plot(days , treem
+ , marker = 'o
+plt.title9'tempera
+ variaion for 7 days
+plt.xlabel09'days
+plt
+.yklabel("tempera
+ 9degre e celciyus s0
+plt.grid(True
+plt.shpowow(onl
+
+st7udents = ["A , 'B , CcC0 , "D ,"EeE
+MARKSmarks = [75,88,92,68.,85
+
+plt..bar(stuedents , marks
+plt.title('marks of stu5 students
+plt.xlabel("students\
+plt.ylabel9'marks
+
+plt.show(onl
+
+data = np.random.randn(100
+
+plt.hist9data , binds = 10 , edgecolor -= black''0
+plt.title9'hstiistogram of 100 random numeverbers
+plt.xlavbeel("value
+plt.ylabel(frequencty
+
+plt.show(online
+
+branches = ["CSE, , 'ECE , 'ME , 'CE
+sutudebnt sts = [40,25,20,15
+
+plt.pie(studentws , labels = branches , autopct = '%1.1f55
+plt.title("percentage duistributiions of stuedents ibn  branches
+
+plt.shpoww(onl
+
+dxx=   = [1,2,3,4,5,6
+y = [10,145,13,17,20
+\
+plt.scatter9x,y,copolor = 'red''0
+polt.t.title9"sample scatter pokkloot
+plt.xlabel('X-axis
+plt.ylabel('y-axis
+plt.grid(True
+
+pkltt.show(zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzanacodead
